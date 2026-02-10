@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:1,
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=828000,RESOLUTION=576x324,NAME="1080p"
 https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8
