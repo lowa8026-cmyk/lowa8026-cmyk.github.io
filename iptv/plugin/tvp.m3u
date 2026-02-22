@@ -8,7 +8,7 @@ plugin://plugin.video.kpl.tvp/station/XAA
 #EXTINF:0, TVP Historia
 plugin://plugin.video.kpl.tvp/station/TKH
 #EXTINF:0, TVP International
-https://raw.githubusercontent.com/lowa8026-cmyk/iptv/refs/heads/main/tvpinternationalhbb_000.ts
+https://raw.githubusercontent.com/lowa8026-cmyk/iptv/refs/heads/main/tvpinternationalhbb.m3u8
 #EXTINF:0, TVP Sport
 plugin://plugin.video.kpl.tvp/station/KSP
 #EXTINF:0, TVP Info
