@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 group-title="-",UA: ПЕРШИЙ HD
+https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
+#EXTINF:-1 group-title="-",1+1 УКРАИНА HD
+http://cdn-bal.srv4you.net/0151/index.m3u8
+#EXTINF:-1 group-title="-",ІНТЕР HD
+http://cdn-bal.srv4you.net/0153/index.m3u8
+#EXTINF:-1 group-title="-",2+2 HD
+http://cdn-bal.srv4you.net/0152/index.m3u8
+#EXTINF:-1 group-title="-",НТН HD
+http://cdn-bal.srv4you.net/0157/index.m3u8
+#EXTINF:-1 group-title="-",1+1 МАРАФОН HD
+http://ukr.ukrainske.tv/399/keytvainua/video.m3u8
+#EXTINF:-1 group-title="-",K1 HD
+http://cdn-bal.srv4you.net/0158/index.m3u8
+#EXTINF:-1 group-title="-",K2 HD
+http://cdn-bal.srv4you.net/0169/index.m3u8
+#EXTINF:-1 group-title="-",МИ - УКРАЇНА HD
+https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
+#EXTINF:-1 group-title="-",СТБ HD
+http://cdn-bal.srv4you.net/0160/index.m3u8
+#EXTINF:-1 group-title="-",ПЛЮСПЛЮС HD
+https://meta.vcdn.biz/41718b293b45675f50cf00a0e9c61b3f_megogo/live/hls/dscte/2/advtracker/1/b/700/u_sid/0/o/29514191/rsid/8cda8233-7279-456e-ba10-81fffbf92a8c/u_uid/0/u_vod/1/u_device/embed_all/u_devicekey/_embed_web/lip/5.63.189.224*asn/type.live/playlist.m3u8
+#EXTINF:-1 group-title="-",ТЕТ HD
+http://cdn-bal.srv4you.net/0164/index.m3u8
+#EXTINF:-1 group-title="-",Мега HD
+http://cdn-bal.srv4you.net/0171/index.m3u8
+#EXTINF:-1 group-title="-",Еспресо HD
+https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8
+#EXTINF:-1 group-title="-",БІК TV HD
+http://194.50.51.34/playlist.m3u8
+#EXTINF:-1 group-title="-",5 Канал HD
+https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8
+#EXTINF:-1 group-title="-",Армія ТБ
+https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
