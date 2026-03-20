@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="-",UA: ПЕРШИЙ HD
 https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
-#EXTINF:-1 group-title="-",1+1 УКРАИНА HD
+#EXTINF:-1 group-title="-",1+1 МАРАФОН HD
 http://cdn-bal.srv4you.net/0151/index.m3u8
 #EXTINF:-1 group-title="-",ІНТЕР HD
 http://cdn-bal.srv4you.net/0153/index.m3u8
@@ -9,13 +9,11 @@ http://cdn-bal.srv4you.net/0153/index.m3u8
 http://cdn-bal.srv4you.net/0152/index.m3u8
 #EXTINF:-1 group-title="-",НТН HD
 http://cdn-bal.srv4you.net/0157/index.m3u8
-#EXTINF:-1 group-title="-",1+1 МАРАФОН HD
-http://ukr.ukrainske.tv/399/keytvainua/video.m3u8
 #EXTINF:-1 group-title="-",K1 HD
 http://cdn-bal.srv4you.net/0158/index.m3u8
 #EXTINF:-1 group-title="-",K2 HD
 http://cdn-bal.srv4you.net/0169/index.m3u8
-#EXTINF:-1 group-title="-",МИ - УКРАЇНА HD
+#EXTINF:-1 group-title="-",МИ УКРАЇНА+
 https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
 #EXTINF:-1 group-title="-",СТБ HD
 http://cdn-bal.srv4you.net/0160/index.m3u8
@@ -29,7 +27,11 @@ http://cdn-bal.srv4you.net/0171/index.m3u8
 https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8
 #EXTINF:-1 group-title="-",БІК TV HD
 http://194.50.51.34/playlist.m3u8
+#EXTINF:-1 group-title="-",24 Канвл HD
+https://streamvideol1.luxnet.ua/news24/livenews.m3u8
 #EXTINF:-1 group-title="-",5 Канал HD
 https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8
+#EXTINF:-1 group-title="-",Чернівецький промінь HD
+https://langate.tv/promin/live_720/index.m3u8
 #EXTINF:-1 group-title="-",Армія ТБ
 https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
