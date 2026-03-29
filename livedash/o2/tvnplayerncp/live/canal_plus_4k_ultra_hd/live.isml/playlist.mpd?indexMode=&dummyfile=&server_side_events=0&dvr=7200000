@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<MPD xmlns="urn:mpeg:dash:schema:mpd:2011" xmlns:cenc="urn:mpeg:cenc:2013" xmlns:mspr="urn:microsoft:playready" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" profiles="urn:mpeg:dash:profile:isoff-live:2011" timeShiftBufferDepth="PT221244H35M36S" type="dynamic" minimumUpdatePeriod="PT4S" availabilityStartTime="2001-01-01T00:00:00.000Z" maxSegmentDuration="PT6S" minBufferTime="PT4S" publishTime="https://r.dcs.redcdn.pl/utc">
+	<BaseURL>https://satoshi-cors.herokuapp.com/http://line.tvdsz.cc/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227445&extension=m3u8&/live.isml</BaseURL>
+	<Period sequence="0" start="PT0S" />
+</MPD>
