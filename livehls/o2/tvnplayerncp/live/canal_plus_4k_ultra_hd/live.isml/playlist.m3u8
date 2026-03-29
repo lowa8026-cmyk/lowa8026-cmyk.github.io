@@ -1,1 +1,13 @@
 #EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2303000,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720
+https://lowa8026-cmyk.github.io/livehls/o2/tvnplayer/live/tvn_24/live.isml/bitrate%3D2303000%26audioId%3D1%26videoId%3D8/playlist.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2823000,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720
+https://lowa8026-cmyk.github.io/livehls/o2/tvnplayer/live/tvn_24/live.isml/bitrate%3D2823000%26audioId%3D1%26videoId%3D4/playlist.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=828000,CODECS="avc1.64001e,mp4a.40.2",RESOLUTION=640x352
+https://lowa8026-cmyk.github.io/livehls/o2/tvnplayer/live/tvn_24/live.isml/bitrate%3D828000%26audioId%3D1%26videoId%3D16/playlist.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1253000,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1024x576
+https://lowa8026-cmyk.github.io/livehls/o2/tvnplayer/live/tvn_24/live.isml/bitrate%3D1253000%26audioId%3D1%26videoId%3D12/playlist.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=6478000,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080
+https://lowa8026-cmyk.github.io/livehls/o2/tvnplayer/live/tvn_24/live.isml/bitrate%3D6478000%26audioId%3D1%26videoId%3D0/playlist.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=628000,CODECS="avc1.640015,mp4a.40.2",RESOLUTION=512x288
+https://lowa8026-cmyk.github.io/livehls/o2/tvnplayer/live/tvn_24/live.isml/bitrate%3D628000%26audioId%3D1%26videoId%3D20/playlist.m3u8
