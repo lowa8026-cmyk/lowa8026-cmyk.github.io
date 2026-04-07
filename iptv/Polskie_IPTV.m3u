@@ -1,0 +1,72 @@
+#EXTINF:0, TVP 1
+https://cdndai.pl/tvp1hd/index.m3u8
+#EXTINF:0, TVP 2
+https://cdndai.pl/tvp2hd/index.m3u8
+#EXTINF:0, TVP HD
+http://78.130.250.2:8023/play/a03a/index.m3u8
+#EXTINF:0, TVP 3 Białystok
+https://cdndai.pl/tvp3bialystoksd/index.m3u8
+#EXTINF:0, TVP 3 Bydgoszcz
+https://cdndai.pl/tvp3bydgoszczsd/index.m3u8
+#EXTINF:0, TVP 3 Gdańsk
+https://cdndai.pl/tvp3gdansksd/index.m3u8
+#EXTINF:0, TVP 3 Katowice
+https://cdndai.pl/tvp3katowicesd/index.m3u8
+#EXTINF:0, TVP 3 Kielce
+https://cdndai.pl/tvp3kielcesd/index.m3u8
+#EXTINF:0, TVP 3 Kraków
+https://cdndai.pl/tvp3krakowsd/index.m3u8
+#EXTINF:0, TVP 3 Łódź
+https://cdndai.pl/tvp3lodzsd/index.m3u8
+#EXTINF:0, TVP 3 Lublin
+https://cdndai.pl/tvp3lublinsd/index.m3u8
+#EXTINF:0, TVP 3 Olsztyn
+https://cdndai.pl/tvp3olsztynsd/index.m3u8
+#EXTINF:0, TVP 3 Opole
+https://cdndai.pl/tvp3opolesd/index.m3u8
+#EXTINF:0, TVP 3 Poznań
+https://cdndai.pl/tvp3poznansd/index.m3u8
+#EXTINF:0, TVP 3 Rzeszów
+https://cdndai.pl/tvp3rzeszowsd/index.m3u8
+#EXTINF:0, TVP 3 Szczecin
+https://cdndai.pl/tvp3szczecinsd/index.m3u8
+#EXTINF:0, TVP 3 Warszawa
+https://cdndai.pl/tvp3warszawasd/index.m3u8
+#EXTINF:0, TVP 3 Wrocław
+https://cdndai.pl/tvp3wroclawsd/index.m3u8
+#EXTINF:0, dlaCiebie.tv
+http://94.246.128.53:1935/tv/dlaCiebieTv/playlist.m3u8
+#EXTINF:0, Echo24
+https://echo24new.pl/LiveAppStreamECHO24/streams/GL0VksiIgQUS1672825288490.m3u8
+#EXTINF:0, Royalworld
+https://ac76260b1102416c93f3d20958bfeb4b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Royalworld/playlist.m3u8
+#EXTINF:0, Top Movies Polska
+https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/master.m3u8
+#EXTINF:0, Red Carpet TV International
+https://fast-rakuten.okast.tv/fa2e8c4385712f9a9076eaf728c751de/channels/1a6ecfaa-40c6-41b8-8634-595c424f856e/21f67fd1-4d21-43ba-8ad8-3afac9982c25/master.m3u8
+#EXTINF:0, TV Kujawy
+http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+#EXTINF:0, TV Toruń
+http://217.173.176.107:1935/live/tvk.stream/playlist.m3u8
+#EXTINF:0, Radio Czwórka
+https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8
+#EXTINF:0, TVT
+http://gargoyle.tomkow.pl/hls/tvt.m3u8
+#EXTINF:0, Super Express TV
+https://s-pl-01.mediatool.tv/playout/sepl-abr/index.m3u8
+#EXTINF:0, TV Biznesowa
+https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
+#EXTINF:0, 4 Fun TV
+https://stream.4fun.tv:8888/hls/4f.m3u8
+#EXTINF:0, TV Jaslo
+https://cdn01.aztv.pl/live_tvjaslo/live_tvjaslo.stream/playlist.m3u8
+#EXTINF:0, TV Lubań
+http://stream.herissons.cloud/hls/tvluban.m3u8
+#EXTINF:0, TV Narew
+https://00.000.000.21.0000.000/narew.m3u8
+#EXTINF:0, Telewizja Sport
+https://telewizjasport.pl
+#EXTINF:0, Telemagazyn.pl
+https://telemagazyn.pl
+#EXTINF:0, TVP Historia 2
+https://historia.tvp.pl/52614342/historia-2
