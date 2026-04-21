@@ -23,14 +23,10 @@ https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/metro/wp_dai.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|453f31b89ac45a5482e1fbc16b06c535:7b490291dec5a38c7c7e5d5e467c9ccb
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn_fabula/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
-#EXTINF:0 tvg-id="Cartoonito HD" tvg-logo="https://r-scale-db.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6330166/images/52496636?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Cartoonito HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|5dd4fca4857f84a5de1f2159a6b35cdf
-https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/warnertv/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
 #EXTINF:0 tvg-id="Warner TV HD" tvg-logo="https://r-scale-6d.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6330170/images/52496628?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Warner TV HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|81e587716f8745c47cd643b01979def1:86d5e57af6ddb6bed63765d85f864587
-https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/boomerang/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/warnertv/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
 #EXTINF:0 tvg-id="Eleven Sports 1 HD" tvg-logo="https://static-stb.cdn-canalplus.pl/supercdn/logos/logotype_266427.png" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Eleven Sports 1 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3bdddc3ae3bb43b7a93d6ff72991e5dc:9a1ca978d3bb5fe1300696f9683567eb
