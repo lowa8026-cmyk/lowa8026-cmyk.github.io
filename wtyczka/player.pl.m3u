@@ -103,3 +103,27 @@ https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/canal_plus_now/live.isml/p
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f48121107deb1e8c623433b8d93fe692:8be229fe7fe9d78e5faccc79331a011f
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/motowizja_hd/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+#EXTINF:0 tvg-id="TVN Momenty Prawdy Online" tvg-logo="https://r-scale-63.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759880/images/55090798?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TVN Momenty Prawdy Online
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|1b5b42f7552a58b4a3e12779d5fb5ccc:92ba29acb9e5f40f9c6a454d43f6580b
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/fast_momenty_prawdy/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+#EXTINF:0 tvg-id="TVN Kryminalnie Online" tvg-logo="https://r-scale-f5.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759884/images/55089509?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TVN Kryminalnie Online
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|611d9dd86adace8c64b76ed6147b096d:be9615accfc734cf0d01bcd809e63aa8
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/fast_kryminalnie/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+#EXTINF:0 tvg-id="TVN Kultowe Seriale Online" tvg-logo="https://r-scale-d5.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759882/images/55089347?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TVN Kultowe Seriale Online
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|c02b38ebe569b1aca90f51ac6d5364e5:5437e3384e51fc8715157eaf973add14
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/fast_kultowe_seriale/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+#EXTINF:0 tvg-id="TVN Patrol Online" tvg-logo="https://r-scale-47.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/10195810/images/1726480663777/10195810.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TVN Patrol Online
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|fdfc0803a7a8719b939da3cc345b5eb9:3461a7c596a6e567fe93a402961269b6
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/fast_patrol/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+#EXTINF:0 tvg-id="TVN Talk Show Online" tvg-logo="https://r-scale-49.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759886/images/55089641?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TVN Talk Show Online
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|8e9af662d0816814f04e5a7745062652:96d7b26a93d122305055128f1bd6c036
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/fast_talk_show/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+#EXTINF:0 tvg-id="TVN Moto Online" tvg-logo="https://r-scale-6b.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759883/images/55089488?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TVN Moto Online
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|ac14ca60093ea5b46fee164eef92970d:e0abe0c35eb1cee3b3d2d7bdd8f7531e
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/fast_moto/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
