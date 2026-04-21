@@ -111,6 +111,8 @@ https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/fast_momenty_prawdy/live.isml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|611d9dd86adace8c64b76ed6147b096d:be9615accfc734cf0d01bcd809e63aa8
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/fast_kryminalnie/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+#EXTINF:0 tvg-id="TVN Milionerzy Online" tvg-logo="https://r-scale-d2.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/9083862/images/55311976?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TVN Milionerzy Online
+https://r.dcs.redcdn.pl/livess/o2/tvnplayer/live/fast_milionerzy/live.isml/manifest
 #EXTINF:0 tvg-id="TVN Kultowe Seriale Online" tvg-logo="https://r-scale-d5.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759882/images/55089347?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TVN Kultowe Seriale Online
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|c02b38ebe569b1aca90f51ac6d5364e5:5437e3384e51fc8715157eaf973add14
