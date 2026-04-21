@@ -23,6 +23,14 @@ https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/metro/wp_dai.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|453f31b89ac45a5482e1fbc16b06c535:7b490291dec5a38c7c7e5d5e467c9ccb
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn_fabula/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+#EXTINF:0 tvg-id="Cinemax HD" tvg-logo="https://r-scale-fd.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6330168/images/52502502?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Cinemax HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a3c5e38fc7a827a19cfdf27d94ba5179:b8bc2956a43ccc82f5d88d4a6172d406
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/cinemax1/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+#EXTINF:0 tvg-id="Cinemax 2 HD" tvg-logo="https://r-scale-ff.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6330169/images/52502615?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Cinemax 2 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|c1d87c215b0eeaf2da65c117348998e6:e3738277d46c36d7107e7f8260a96286
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/cinemax2/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
 #EXTINF:0 tvg-id="Warner TV HD" tvg-logo="https://r-scale-6d.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6330170/images/52496628?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Warner TV HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|81e587716f8745c47cd643b01979def1:86d5e57af6ddb6bed63765d85f864587
