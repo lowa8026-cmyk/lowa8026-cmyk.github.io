@@ -1,0 +1,89 @@
+#EXTM3U
+#EXTINF:0 group-title="Hot Bird 13°E",TVP Info HD
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.http_proxy_host=78.130.250.2
+#KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8023
+http://78.130.250.2:8023/play/a03b/index.m3u8
+#EXTINF:0 group-title="Hot Bird 13°E",Antena HD
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.http_proxy_host=78.130.250.2
+#KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8023
+http://78.130.250.2:8023/play/a03o/index.m3u8
+#EXTINF:0 group-title="Hot Bird 13°E",4Fun.tv
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.http_proxy_host=
+#KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8888
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:0 group-title="Hot Bird 13°E",4Fun Kids
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.http_proxy_host=
+#KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8889
+https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
+#EXTINF:0 group-title="Hot Bird 13°E",Nuta TV
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.http_proxy_host=78.130.250.2
+#KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8023
+http://78.130.250.2:8023/play/a03r/index.m3u8
+#EXTINF:0 group-title="Hot Bird 13°E",Nuta Gold
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.http_proxy_host=78.130.250.2
+#KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8023
+http://78.130.250.2:8023/play/a03q/index.m3u8
+#EXTINF:0 group-title="Hot Bird 13°E",Szlagier TV
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.http_proxy_host=78.130.250.2
+#KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8023
+http://78.130.250.2:8023/play/a03t/index.m3u8
+#EXTINF:0 group-title="Hot Bird 13°E",Power TV
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.http_proxy_host=78.130.250.2
+#KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8023
+http://78.130.250.2:8023/play/a03s/index.m3u8
+#EXTINF:0 group-title="Hot Bird 13°E",TVS
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.http_proxy_host=78.130.250.2
+#KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8023
+http://78.130.250.2:8023/play/a039/index.m3u8
+#EXTINF:0 group-title="Hot Bird 13°E",TV Kujawy
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.http_proxy_host=
+#KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8080
+http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+#EXTINF:0 group-title="Hot Bird 13°E",Tele 5
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.http_proxy_host=78.130.250.2
+#KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8023
+http://78.130.250.2:8023/play/a05s/index.m3u8
+#EXTINF:0 group-title="Hot Bird 13°E",Polonia 1
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.http_proxy_host=78.130.250.2
+#KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8023
+http://78.130.250.2:8023/play/a05t/index.m3u8
+#EXTINF:0 group-title="Hot Bird 13°E",TVC
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.http_proxy_host=78.130.250.2
+#KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8023
+http://78.130.250.2:8023/play/a03u/index.m3u8
+#EXTINF:0 group-title="Hot Bird 13°E",TVC Super
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.http_proxy_host=78.130.250.2
+#KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8023
+http://78.130.250.2:8023/play/a03w/index.m3u8
