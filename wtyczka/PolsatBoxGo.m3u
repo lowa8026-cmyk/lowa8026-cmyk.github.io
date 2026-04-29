@@ -562,7 +562,7 @@ https://cdn-s-lb2.pluscdn.pl/ch/1454414/36/dash/fac0a4d2/live.mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a167e1c41baf4ac596b9c37015fd5909:9f8157067e83e42d7dedfa29eb77fbe6
 https://cdn-s-lb2.pluscdn.pl/ch/1454060/15/dash/a00663e1/live.mpd
 #EXTINF:-1 tvg-id="POLSAT 1 HD" tvg-logo="https://ipla.pluscdn.pl/p/versions/8y/8ybkykm42uvqxyhu2i3mhnrgtvgtwnrp/polsatboxgo_tv_lg_backgound_image_1920x1080.png" group-title="Ogólny",POLSAT 1 HD
-KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=212.86.120.82
