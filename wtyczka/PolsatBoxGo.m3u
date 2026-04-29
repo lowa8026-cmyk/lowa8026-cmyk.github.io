@@ -121,6 +121,10 @@ https://cdn-s-lb2.pluscdn.pl/ch/1454076/19/dash/a1b17157/live.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|48460fe72a654871ac71e20682046d09:feca8ee31c09950b492102e9d0a0eeb6
 https://cdn-s-lb2.pluscdn.pl/ch/1454080/21/dash/3c68860a/live.mpd
+#EXTINF:-1 tvg-id="Polsat Film 2" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/1t/1t5xuhpcwrm1ud4aqjus1dzzogqd6ru3.png" group-title="Filmy i seriale",Polsat Film 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|8e498d1d87c74278b4186cf9494b7109:b79b71b5b576f0e8e102810859898593
+https://cdn-s-lb2.pluscdn.pl/ch/1563770/2275/dash/1434990b/live.mpd
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/wn/wnffc6v1x537z6f2z5bt1gpuybbgzy7u.png" group-title="Filmy i seriale",Cinemax HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|7d25778c961e4cb88b4cc7e0420d1a09:30080c794631e6c6b44487518c3c6262
