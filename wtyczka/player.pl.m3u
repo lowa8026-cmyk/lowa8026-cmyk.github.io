@@ -51,12 +51,6 @@ https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/cinemax1/live.isml/playlist.m
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|c1d87c215b0eeaf2da65c117348998e6:e3738277d46c36d7107e7f8260a96286
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/cinemax2/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
-#EXTINF:0 tvg-id="Royalworld" tvg-logo="https://raw.githubusercontent.com/lowa8026-cmyk/iptv-1/refs/heads/main/tvnplayer.royalworld.dsth.200.dstw.400.srcmode.0.srcx.0.srcy.0.quality.85.type.0.srcw.1.1.srch.1.1.png.png" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Royalworld
-#KODIPROP:inputstream.adaptive.play_timeshift_buffer=false
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=+UA
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=+UA#K21
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://ac76260b1102416c93f3d20958bfeb4b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Royalworld/playlist.m3u8
 #EXTINF:0 tvg-id="Grjngo Westerny" tvg-logo="https://raw.githubusercontent.com/lowa8026-cmyk/iptv-1/refs/heads/main/tvnplayer.grjngo.dsth.200.dstw.400.srcmode.0.srcx.0.srcy.0.quality.85.type.0.srcw.1.1.srch.1.1.png.png" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Grjngo Westerny
 #KODIPROP:inputstream.adaptive.play_timeshift_buffer=false
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=+UA
@@ -110,7 +104,7 @@ https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/canal_plus_discovery/live.
 #EXTINF:0 tvg-id="CANAL+ 4K ULTRA HD" tvg-logo="https://liveovh010cdapl.github.io/canalplus.supercdn.logos.logotype_250309.png" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",CANAL+ 4K ULTRA HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0123456789a123456789a12345678a0:0123456789a123456789a12345678a0
-https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/canal_plus_1/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=4K&dvr=7200000
+https://lowa8026-cmyk.github.io/livedash/o2/tvnplayerncp/live/canal_plus_4k_ultra/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
 #EXTINF:0 tvg-id="CANAL+ SPORT HD" tvg-logo="https://static-stb.cdn-canalplus.pl/supercdn/logos/logotype_250322.png" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",CANAL+ SPORT HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0123456789a123456789a12345678a0:0123456789a123456789a12345678a0
