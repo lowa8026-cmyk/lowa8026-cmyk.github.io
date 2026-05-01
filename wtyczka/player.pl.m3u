@@ -35,7 +35,7 @@ https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn_fabula/live.isml/playlist
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|b2c3241ab01527e0e3dbdc326e5ddf13:5bc6abe48eebc322cbb81e7563081fb1
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/metro/wp_dai.mpd
-#EXTINF:0 tvg-id="Discovery Life" tvg-logo="" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Discovery Life
+#EXTINF:0 tvg-id="Discovery Life" tvg-logo="https://r-scale-bc.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/2930750/images/49768836?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Discovery Life
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6bd8904ebcc352a2b5de4217042d42a6:d73851cc91a8bedace02aad4c1ba9a7c
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/discovery_life/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
@@ -51,6 +51,18 @@ https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/cinemax1/live.isml/playlist.m
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|c1d87c215b0eeaf2da65c117348998e6:e3738277d46c36d7107e7f8260a96286
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/cinemax2/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+#EXTINF:0 tvg-id="Royalworld" tvg-logo="https://raw.githubusercontent.com/lowa8026-cmyk/iptv-1/refs/heads/main/tvnplayer.royalworld.dsth.200.dstw.400.srcmode.0.srcx.0.srcy.0.quality.85.type.0.srcw.1.1.srch.1.1.png.png" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Royalworld
+#KODIPROP:inputstream.adaptive.play_timeshift_buffer=false
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=+UA
+#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=+UA#K21
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://ac76260b1102416c93f3d20958bfeb4b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Royalworld/playlist.m3u8
+#EXTINF:0 tvg-id="Grjngo Westerny" tvg-logo="https://raw.githubusercontent.com/lowa8026-cmyk/iptv-1/refs/heads/main/tvnplayer.grjngo.dsth.200.dstw.400.srcmode.0.srcx.0.srcy.0.quality.85.type.0.srcw.1.1.srch.1.1.png.png" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Grjngo Westerny
+#KODIPROP:inputstream.adaptive.play_timeshift_buffer=false
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=+UA
+#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=+UA#K21
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://b6c7c7d1020a4588982ca7c2625f85d1.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_GrjngoWesterny/playlist.m3u8
 #EXTINF:0 tvg-id="Warner TV HD" tvg-logo="https://r-scale-6d.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6330170/images/52496628?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Warner TV HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|81e587716f8745c47cd643b01979def1:86d5e57af6ddb6bed63765d85f864587
