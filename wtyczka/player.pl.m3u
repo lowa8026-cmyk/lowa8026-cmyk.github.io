@@ -19,7 +19,6 @@ https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn_24_bis/dai_bid.isml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6d74e7e5d705252f2d9c454f9945dc69:32468b529c8cd2481adeea50dcd94480
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/ttv/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
-https://redcdnpl-ncp.github.io/livedash/o2/tvnplayer/live/eurosport2/live.isml/playlist.mpd
 #EXTINF:0 tvg-id="EUROSPORT 1 HD" tvg-logo="https://r-scale-31.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/57615/images/1774614258892/57615.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",EUROSPORT 1 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0123456789a123456789a12345678a0:0123456789a123456789a12345678a0
@@ -42,7 +41,7 @@ https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn_turbo/wp_dai.mpd
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn_style/wp_dai.mpd
 #EXTINF:0 tvg-id="EUROSPORT 4 HD" tvg-logo="https://r-scale-8b.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/4890062/images/1774614550463/4890062.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",EUROSPORT 4 HD
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0123456789a123456789a12345678a0:0123456789a123456789a12345678a0
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/eurosport_4/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
 #EXTINF:0 tvg-id="TVN Fabuła HD" tvg-logo="https://r-scale-c1.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/10413549/images/1730190232232/10413549.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TVN Fabuła HD
 #KODIPROP:inputstream=inputstream.adaptive
