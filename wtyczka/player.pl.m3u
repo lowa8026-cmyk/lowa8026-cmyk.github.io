@@ -85,11 +85,11 @@ https://redcdnpl-ncp.github.io/livedash/o2/tvnplayerncp/live/11/live.isml/playli
 https://redcdnpl-ncp.github.io/livedash/o2/tvnplayerncp/live/11_sports/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
 #EXTINF:0 tvg-id="Eleven Sports 3 HD" tvg-logo="https://static-stb.cdn-canalplus.pl/supercdn/logos/logotype_266431.png" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Eleven Sports 3 HD
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|65c9e7e73a314bacb570514a605ea306:91c84c5a2af36c16e20397da599a6e94
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|674c1f34ddac8bb39392a9a041651a33:2b57fa6846ead23442e9a421835fbfb8
 https://redcdnpl-ncp.github.io/livedash/o2/tvnplayerncp/live/11_extra/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
 #EXTINF:0 tvg-id="Eleven Sports 4 HD" tvg-logo="https://static-stb.cdn-canalplus.pl/supercdn/logos/logotype_266433.png" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Eleven Sports 4 HD
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|5288e6308fb45f5b89f3ece30b12b1b3:106c98f71aa6a18fbd32da9d58859413
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|1b3d79aff232a9bddc297cf315c63930:804647b1ace75bdfb8e85d1fb5351650
 https://redcdnpl-ncp.github.io/livedash/o2/tvnplayerncp/live/eleven_sports_4_hd/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
 #EXTINF:0 tvg-id="CANAL+ PREMIUM HD" tvg-logo="https://static-stb.cdn-canalplus.pl/supercdn/logos/logotype_815964.png" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",CANAL+ PREMIUM HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -110,7 +110,7 @@ https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/canal_plus_seriale/live.is
 #EXTINF:0 tvg-id="CANAL+ 360" tvg-logo="https://static-stb.cdn-canalplus.pl/supercdn/logos/logotype_1329087.png" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",CANAL+ 360
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|71de4a7341e6219c3ff869f479ce7af6:d81767ece1a81e2dc8acc087083902f1
-https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/canal_plus_family/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/canal_plus_family/live.isml/playlist.mpd?indexMode=&dummyfile=&server_:side_events=0&dvr=7200000
 #EXTINF:0 tvg-id="CANAL+ DOKUMENT HD" tvg-logo="https://static-stb.cdn-canalplus.pl/supercdn/logos/logotype_558307.png" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",CANAL+ DOKUMENT HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|763cf8b2f38c7f250ca765bca8eac32f:79c7096f14b2d6f8492520a52495a918
