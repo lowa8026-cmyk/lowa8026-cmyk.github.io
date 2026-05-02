@@ -19,6 +19,19 @@ https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn_24_bis/dai_bid.isml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6d74e7e5d705252f2d9c454f9945dc69:32468b529c8cd2481adeea50dcd94480
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/ttv/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+https://redcdnpl-ncp.github.io/livedash/o2/tvnplayer/live/eurosport2/live.isml/playlist.mpd
+#EXTINF:0 tvg-id="EUROSPORT 1 HD" tvg-logo="https://r-scale-31.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/57615/images/1774614258892/57615.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",EUROSPORT 1 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0123456789a123456789a12345678a0:0123456789a123456789a12345678a0
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/eurosport1/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+#EXTINF:0 tvg-id="EUROSPORT 2 HD" tvg-logo="https://r-scale-d2.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/57616/images/1774614287813/57616.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",EUROSPORT 2 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|51ab61e7bc85492a9ff91bb55f101709:59acf98d228bddef6443da0b5b0669a2
+https://redcdnpl-ncp.github.io/livedash/o2/tvnplayer/live/eurosport2/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+#EXTINF:0 tvg-id="EUROSPORT 3 HD" tvg-logo="https://r-scale-19.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/4890061/images/1774614542192/4890061.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",EUROSPORT 3 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0123456789a123456789a12345678a0:0123456789a123456789a12345678a0
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/eurosport_3/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
 #EXTINF:0 tvg-id="TVN Turbo HD" tvg-logo="https://r-scale-79.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/57626/images/49769141?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TVN Turbo HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|83a989b8e19387dd62ecf9f89114283e:ab8476cf101ab7e71df8d6404a278f82
@@ -27,6 +40,10 @@ https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn_turbo/wp_dai.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6b04444f6093cc7d12ab9e671e1ddf23:254fde48bd708bee1a08fd4f5038c1c2
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn_style/wp_dai.mpd
+#EXTINF:0 tvg-id="EUROSPORT 4 HD" tvg-logo="https://r-scale-8b.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/4890062/images/1774614550463/4890062.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",EUROSPORT 4 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/eurosport_4/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
 #EXTINF:0 tvg-id="TVN Fabuła HD" tvg-logo="https://r-scale-c1.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/10413549/images/1730190232232/10413549.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TVN Fabuła HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|453f31b89ac45a5482e1fbc16b06c535:7b490291dec5a38c7c7e5d5e467c9ccb
