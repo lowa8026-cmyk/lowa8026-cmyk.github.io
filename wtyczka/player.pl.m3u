@@ -93,7 +93,7 @@ https://redcdnpl-ncp.github.io/livedash/o2/tvnplayerncp/live/11_extra/live.isml/
 https://redcdnpl-ncp.github.io/livedash/o2/tvnplayerncp/live/eleven_sports_4_hd/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
 #EXTINF:0 tvg-id="CANAL+ PREMIUM HD" tvg-logo="https://static-stb.cdn-canalplus.pl/supercdn/logos/logotype_815964.png" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",CANAL+ PREMIUM HD
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|1e3498d47b84fd7c840e6e34711644ff:047db7b1c61ef7719b1b2748e8e49e28
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aef1bd047181ba2d0de9a05f166901ff:2808ab6fcbeb675ff2d8eed620f3a77c
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/canal_plus/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
 #EXTINF:0 tvg-id="CANAL+ 1 HD" tvg-logo="https://static-stb.cdn-canalplus.pl/supercdn/logos/logotype_250293.png" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",CANAL+ 1 HD
 #KODIPROP:inputstream=inputstream.adaptive
