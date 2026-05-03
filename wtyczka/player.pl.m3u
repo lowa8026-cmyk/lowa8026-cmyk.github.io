@@ -67,7 +67,7 @@ https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/cinemax1/live.isml/playlist.m
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|c1d87c215b0eeaf2da65c117348998e6:e3738277d46c36d7107e7f8260a96286
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/cinemax2/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
-#EXTINF:0 tvg-id="Grjngo Westerny" tvg-logo="https://raw.githubusercontent.com/lowa8026-cmyk/iptv-1/refs/heads/main/tvnplayer.grjngo.dsth.200.dstw.400.srcmode.0.srcx.0.srcy.0.quality.85.type.0.srcw.1.1.srch.1.1.png.png" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Grjngo Westerny
+#EXTINF:0 tvg-id="Grjngo Westerny" tvg-logo="https://raw.githubusercontent.com/lowa8026-cmyk/iptv-1/refs/heads/main/tvnplayer.grjngo.dsth.200.dstw.400.srcmode.0.srcx.0.srcy.0.quality.85.type.0.srcw.1.1.srch.1.1.png" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Grjngo Westerny
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e87994b160bd48b5ac2f608ef5dc0f09:26840f913d91ed7e355a8cc18b99adef
 https://redcdnpl-ncp.github.io/livedash/o2/tvnplayer/live/fast_grjngo_rakuten/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
