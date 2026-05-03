@@ -109,7 +109,7 @@ https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/canal_plus_film/live.isml/
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/canal_plus_seriale/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
 #EXTINF:0 tvg-id="CANAL+ 360" tvg-logo="https://static-stb.cdn-canalplus.pl/supercdn/logos/logotype_1329087.png" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",CANAL+ 360
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|71de4a7341e6219c3ff869f479ce7af6:d81767ece1a81e2dc8acc087083902f1
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|d2b78ff6925eafcd33806ede36e5d123:2269c77952d36f16af16f823bff87ac3
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/canal_plus_family/live.isml/playlist.mpd?indexMode=&dummyfile=&server_:side_events=0&dvr=7200000
 #EXTINF:0 tvg-id="CANAL+ DOKUMENT HD" tvg-logo="https://static-stb.cdn-canalplus.pl/supercdn/logos/logotype_558307.png" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",CANAL+ DOKUMENT HD
 #KODIPROP:inputstream=inputstream.adaptive
