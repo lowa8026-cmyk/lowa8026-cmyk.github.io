@@ -69,8 +69,8 @@ https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/cinemax1/live.isml/playlist.m
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/cinemax2/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
 #EXTINF:0 tvg-id="Grjngo Westerny" tvg-logo="https://raw.githubusercontent.com/lowa8026-cmyk/iptv-1/refs/heads/main/tvnplayer.grjngo.dsth.200.dstw.400.srcmode.0.srcx.0.srcy.0.quality.85.type.0.srcw.1.1.srch.1.1.png" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Grjngo Westerny
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|593b2ae6e86f37488c86c6a1f323c94c:5dc721fb87294c5a1672962cf4c0c7ec
-https://r.dcs.redcdn.pl/dash/o2/tvnplayer/vod/22_350_30949_0000/LIBCODER_SMOOTH_720_PL/fb4f174c-fcce-4e26-a40b-dafe69e05de1/playlist.ism/playlist.mpd?dummyfile=
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e56d00768bbc41e788bc7ca11d9eda57:59e3c45d797d4332a45776816bcb9ce4
+https://cdn-14-go.toya.net.pl/drm/125_lk64qy/manifest.mpd
 #EXTINF:0 tvg-id="Warner TV HD" tvg-logo="https://r-scale-6d.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6330170/images/52496628?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Warner TV HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|81e587716f8745c47cd643b01979def1:86d5e57af6ddb6bed63765d85f864587
