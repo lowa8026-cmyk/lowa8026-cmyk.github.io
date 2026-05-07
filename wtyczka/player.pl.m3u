@@ -59,6 +59,24 @@ https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/metro/wp_dai.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6bd8904ebcc352a2b5de4217042d42a6:d73851cc91a8bedace02aad4c1ba9a7c
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/discovery_life/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+#EXTINF:0 tvg-id="Food Network" tvg-logo="https://r-scale-a1.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/2930751/images/49768868?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Food Network
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/food_network/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+#EXTINF:0 tvg-id="Discovery HD" tvg-logo="https://r-scale-3b.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/57610/images/49476243?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Discovery HD
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/discovery_channel_hd/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+#EXTINF:0 tvg-id="Animal Planet" tvg-logo="https://r-scale-b6.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/2930755/images/49768828?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Animal Planet
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/animal_planet/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+#EXTINF:0 tvg-id="Travel Channel" tvg-logo="https://r-scale-ff.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/2930753/images/49769040?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Travel Channel
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/travel_channel/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+#EXTINF:0 tvg-id="Discovery Historia" tvg-logo="https://r-scale-72.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/2930756/images/48881724?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Discovery Historia
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/discovery_historia/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+#EXTINF:0 tvg-id="Investigation Discovery" tvg-logo="https://r-scale-4d.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/2930759/images/49786459?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Investigation Discovery
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/id/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+#EXTINF:0 tvg-id="Discovery Science" tvg-logo="https://r-scale-dd.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/2930757/images/49769024?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Discovery Science
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/discovery_science/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+#EXTINF:0 tvg-id="DTX" tvg-logo="https://r-scale-fb.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/2930758/images/49768844?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",DTX
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/dtx/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+#EXTINF:0 tvg-id="TLC HD" tvg-logo="https://r-scale-b0.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/57613/images/49769032?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TLC HD
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tlc_hd/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
 #EXTINF:0 tvg-id="HGTV" tvg-logo="https://r-scale-82.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/57590/images/49768876?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",HGTV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|286cfe88bc76ec028f3a5ea879731ef1:e5019021164b21f065671bc8eb6cf83a
@@ -73,8 +91,8 @@ https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/cinemax1/live.isml/playlist.m
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/cinemax2/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
 #EXTINF:0 tvg-id="Grjngo Westerny" tvg-logo="https://raw.githubusercontent.com/lowa8026-cmyk/iptv-1/refs/heads/main/tvnplayer.grjngo.dsth.200.dstw.400.srcmode.0.srcx.0.srcy.0.quality.85.type.0.srcw.1.1.srch.1.1.png" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Grjngo Westerny
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e56d00768bbc41e788bc7ca11d9eda57:59e3c45d797d4332a45776816bcb9ce4
-https://cdn-14-go.toya.net.pl/drm/125_lk64qy/manifest.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6958f534821d4c62fea40b492afd6e0b:5999c7367193eacc990d9ba983f5fbde
+https://raw.githubusercontent.com/redcdnpl-ncp/redcdnpl-ncp.github.io/refs/heads/main/livedash/o2/tvnplayer/live/fast_grjngo_rakuten/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
 #EXTINF:0 tvg-id="Warner TV HD" tvg-logo="https://r-scale-6d.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6330170/images/52496628?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Warner TV HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|81e587716f8745c47cd643b01979def1:86d5e57af6ddb6bed63765d85f864587
@@ -95,14 +113,14 @@ https://redcdnpl-ncp.github.io/livedash/o2/tvnplayerncp/live/11_extra/live.isml/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|1b3d79aff232a9bddc297cf315c63930:804647b1ace75bdfb8e85d1fb5351650
 https://redcdnpl-ncp.github.io/livedash/o2/tvnplayerncp/live/eleven_sports_4_hd/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
-#EXTINF:0 tvg-id="CANAL+ PREMIUM HD" tvg-logo="https://static-stb.cdn-canalplus.pl/supercdn/logos/logotype_815964.png" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",CANAL+ PREMIUM HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aef1bd047181ba2d0de9a05f166901ff:2808ab6fcbeb675ff2d8eed620f3a77c
-https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/canal_plus/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
 #EXTINF:0 tvg-id="CANAL+ 1 HD" tvg-logo="https://static-stb.cdn-canalplus.pl/supercdn/logos/logotype_250293.png" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",CANAL+ 1 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|347c2002e1d1c75372b3733ca8d919ff:4dd2412b77b4246926cf8465ba66afdc
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/canal_plus_1/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+#EXTINF:0 tvg-id="CANAL+ PREMIUM HD" tvg-logo="https://static-stb.cdn-canalplus.pl/supercdn/logos/logotype_815964.png" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",CANAL+ PREMIUM HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aef1bd047181ba2d0de9a05f166901ff:2808ab6fcbeb675ff2d8eed620f3a77c
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/canal_plus/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
 #EXTINF:0 tvg-id="CANAL+ FILM HD" tvg-logo="https://static-stb.cdn-canalplus.pl/supercdn/logos/logotype_250303.png" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",CANAL+ FILM HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|306457f0ba7cb1054d1d65be4cd23bfc:fa535a6ba045e7803d190d7b7e869351
