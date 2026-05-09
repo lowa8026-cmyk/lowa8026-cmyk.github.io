@@ -1,21 +1,30 @@
 #EXTM3U
-#EXTINF:-1 group-title="TEST ⓵",UA Pershyi
-https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Kyiv
-https://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
-#EXTINF:-1 group-title="TEST ⓵",ITV
-https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8
-#EXTINF:-1 group-title="TEST ⓵",5 Channel Ukraine
-https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8
-#EXTINF:-1 group-title="TEST ⓵",EWTN Ukraine
-https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="TEST ⓵",TVA
-https://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Espreso TV
-https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8
-#EXTINF:-1 group-title="TEST ⓵",RADA
-https://api-tv.ipnet.ua/api/v1/manifest/1312714970.m3u8
-#EXTINF:-1 group-title="TEST ⓵",MY UKRAINE+
+#EXTINF:-1 group-title="TEST ⓵",Перший
+#EXTVLCOPT:http-user-agent=curl/8.16.0
+https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Суспільне Культура
+#EXTVLCOPT:http-user-agent=curl/8.16.0
+https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",НТН
+https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Сонце
+#EXTVLCOPT:http-user-agent=curl/8.16.0
+https://ext.cdn.nashnet.tv/228.0.0.165/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",К2
+https://cdn15.live-tv.cloud/ua_infinitas_tv/k2-abr/playlist.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Мега
+https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Піксель TV
+https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8
+#EXTINF:-1 group-title="TEST ⓵",МИ+ УКРАЇНА
 https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Armia TV
-https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Суспільне Київ
+#EXTVLCOPT:http-user-agent=curl/8.16.0
+https://ext.cdn.nashnet.tv/228.0.0.41/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",D1
+https://cdn15.live-tv.cloud/ua_infinitas_tv/d1dn_abr/playlist.m3u8
+#EXTINF:-1 group-title="TEST ⓵",TVP INFO
+https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Перший Західний
+#EXTVLCOPT:http-user-agent=curl/8.16.0
+https://ext.cdn.nashnet.tv/228.0.0.162/index.m3u8
