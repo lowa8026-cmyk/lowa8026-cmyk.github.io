@@ -1,30 +1,30 @@
 #EXTM3U
-#EXTINF:-1 group-title="TEST ⓵",Перший
+#EXTINF:-1 tvg-logo="https://cdn4.suspilne.media/broadcast_group/207-79.jpg",Перший
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Суспільне Культура
+#EXTINF:-1 tvg-logo="https://cdn4.suspilne.media/broadcast_group/273-16.jpg",Суспільне Культура
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",НТН
+#EXTINF:-1 tvg-logo="https://liveam.tv/assets/images/webp/chnl/ntn.webp",НТН
 https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Сонце
+#EXTINF:-1 tvg-logo="https://liveam.tv/assets/images/webp/chnl/sonce.webp",Сонце
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.0.165/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",К2
+#EXTINF:-1 tvg-logo="https://liveam.tv/assets/images/webp/chnl/k2-poster.webp",К2
 https://cdn15.live-tv.cloud/ua_infinitas_tv/k2-abr/playlist.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Мега
+#EXTINF:-1 tvg-logo="https://liveam.tv/assets/images/webp/chnl/mega.webp",Мега
 https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Піксель TV
+#EXTINF:-1 tvg-logo="https://liveam.tv/assets/images/webp/chnl/piksel-tv.webp",Піксель TV
 https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8
-#EXTINF:-1 group-title="TEST ⓵",МИ+ УКРАЇНА
+#EXTINF:-1 tvg-logo="https://liveam.tv/assets/images/webp/chnl/we-ukraine.webp",МИ+ УКРАЇНА
 https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Суспільне Київ
+#EXTINF:-1 tvg-logo="https://cdn4.suspilne.media/section/kyiv/seo_image.png",Суспільне Київ
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.0.41/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵",D1
+#EXTINF:-1 tvg-logo="https://live-tv.od.ua/img/d1.png",D1
 https://cdn15.live-tv.cloud/ua_infinitas_tv/d1dn_abr/playlist.m3u8
-#EXTINF:-1 group-title="TEST ⓵",TVP INFO
+#EXTINF:-1 tvg-logo="https://s.tvp.pl/images/images/9/0/c/uid_90c4084d8d7e4672a74ce0c4b74cc61d_width_1200_play_0_pos_0_gs_0_height_630.png",TVP INFO
 https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Перший Західний
+#EXTINF:-1 tvg-logo="https://static.sweet.tv/images/cache/channel_banners/BCHAYIAM/1550-trk-pervyy-zapadnyy-hd.png",Перший Західний
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.0.162/index.m3u8
