@@ -1,55 +1,49 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn4.suspilne.media/broadcast_group/207-79.jpg",Перший
-#EXTVLCOPT:http-user-agent=curl/8.16.0
-https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4.suspilne.media/broadcast_group/273-16.jpg",Суспільне Культура
-#EXTVLCOPT:http-user-agent=curl/8.16.0
-https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8
-#EXTINF:-1 tvg-logo="https://liveam.tv/assets/images/webp/chnl/ntn.webp",НТН
-https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://liveam.tv/assets/images/webp/chnl/sonce.webp",Сонце
-#EXTVLCOPT:http-user-agent=curl/8.16.0
-https://ext.cdn.nashnet.tv/228.0.0.165/index.m3u8
-#EXTINF:-1 tvg-logo="https://liveam.tv/assets/images/webp/chnl/k2-poster.webp",К2
-https://cdn15.live-tv.cloud/ua_infinitas_tv/k2-abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://liveam.tv/assets/images/webp/chnl/mega.webp",Мега
-https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://liveam.tv/assets/images/webp/chnl/piksel-tv.webp",Піксель TV
-https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://liveam.tv/assets/images/webp/chnl/we-ukraine.webp",МИ+ УКРАЇНА
-https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4.suspilne.media/section/donbas/seo_image.png",Суспільне Донбас
-https://cdn15.live-tv.cloud/suspilne/uadonbas-abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4.suspilne.media/section/kyiv/seo_image.png",Суспільне Київ
-#EXTVLCOPT:http-user-agent=curl/8.16.0
-https://ext.cdn.nashnet.tv/228.0.0.41/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4.suspilne.media/section/crimea/seo_image.png",Суспільне Крим
-#EXTVLCOPT:http-user-agent=curl/8.16.0
-https://ext.cdn.nashnet.tv/228.0.0.71/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4.suspilne.media/section/mykolaiv/seo_image.png",Суспільне Мїколайв
-https://cdn15.live-tv.cloud/suspilne/uam-abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4.suspilne.media/section/odesa/seo_image.png",Суспільне Одеса
-https://cdn15.live-tv.cloud/suspilne/uaod-abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4.suspilne.media/section/uzhhorod/seo_image.png",Суспільне Ужгород
-https://cdn15.live-tv.cloud/suspilne/uazakar-abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://live-tv.od.ua/img/d1.png",D1 Дніпро
-https://cdn15.live-tv.cloud/ua_infinitas_tv/d1dn_abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://liveam.tv/assets/images/webp/chnl/11-dnepr.webp",11 Канал
-https://11tv-dp.cdn-04.cosmonova.net.ua/hls/11tv-dp_ua_hi/index.m3u8
-#EXTINF:-1 tvg-logo="https://live-televsesvit.cosmonova.net.ua/images/offline-images/stub_ua.png",Телевсесвіт
-https://televsesvit.cdn-04.cosmonova.net.ua/hls/televsesvit_ua_hi/index.m3u8
-#EXTINF:-1 tvg-logo="https://liveam.tv/assets/images/webp/2017/pryamoi.webp",Прямий
-#EXTVLCOPT:http-user-agent=curl/8.16.0
-https://ext.cdn.nashnet.tv/228.0.0.122/index.m3u8
-#EXTINF:-1 tvg-logo="https://liveam.tv/assets/images/webp/chnl/5-kanal.webp",5 Канал
-https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8
+#EXTINF:-1 tvg-logo="https://liveam.tv/assets/images/webp/chnl/1plus1.webp",1+1 International
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=18ebce6789a7423492337e05b8431409:3e74e23e52bdf7fb89ef9052c750835f
+https://cdn-s-lb2.pluscdn.pl/ch/1457285/140/dash/8d59a274/live.mpd
+#EXTINF:-1 tvg-logo="https://liveam.tv/assets/images/webp/chnl/plusplus.webp",ПлюсПлюс
+https://meta.vcdn.biz/41718b293b45675f50cf00a0e9c61b3f_megogo/live/hls/dscte/2/advtracker/1/b/700/u_sid/0/o/29514191/rsid/8cda8233-7279-456e-ba10-81fffbf92a8c/u_uid/0/u_vod/1/u_device/embed_all/u_devicekey/_embed_web/lip/5.63.189.224*asn/type.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://liveam.tv/assets/images/webp/chnl/espreso.webp",Еспресо TV
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.0.191/index.m3u8
+#EXTINF:-1 tvg-logo="https://liveam.tv/assets/images/webp/chnl/persh.webp",Перший
+#EXTVLCOPT:http-user-agent=curl/8.16.0
+https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
+#EXTINF:-1 tvg-logo="https://liveam.tv/assets/images/webp/chnl/k2-poster.webp",К2
+https://cdn15.live-tv.cloud/ua_infinitas_tv/k2-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://liveam.tv/assets/images/webp/chnl/piksel-tv.webp",Піксель TV
+https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://liveam.tv/assets/images/webp/chnl/ntn.webp",НТН
+https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://liveam.tv/assets/images/webp/chnl/kvartal-tv-poster.webp",Kvartal TV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e6fc676d0ed4739a9e53ec9439aff09:685dd06df030b7aecbecfd20185e9887
+https://cdn-s-lb2.pluscdn.pl/ch/1457295/143/dash/24b57151/live.mpd
+#EXTINF:-1 tvg-logo="https://liveam.tv/assets/images/webp/chnl/mega.webp",Мега
+https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://corp.suspilne.media/wp-content/uploads/2024/10/suspilne-kultura-1024x576.png",Суспільне Культура
+#EXTVLCOPT:http-user-agent=curl/8.16.0
+https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8
+#EXTINF:-1 tvg-logo="https://liveam.tv/assets/images/webp/chnl/drama.webp",FILMUADRAMA
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cd974b7eccc04036bbfdb480247e2a09:6ef71fb50928889cac3b5b22a8810499
+https://cdn-s-lb2.pluscdn.pl/ch/1457280/136/dash/c2d72497/live.mpd
+#EXTINF:-1 tvg-logo="https://liveam.tv/assets/images/webp/chnl/suspilne-kyiv.webp",Суспільне Київ
+#EXTVLCOPT:http-user-agent=curl/8.16.0
+https://ext.cdn.nashnet.tv/228.0.0.71/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.sweet.tv/images/cache/channel_banners/BCUQCIAM/169-telekompaniya-tv-4.png",TV-4 Тернопіль
+https://vs2126.vcdn.biz/c27a63fda28be51f87a7d0046de1f4b8_megogo/live/hls/b/700_2490/u_sid/0/o/71044361/rsid/393818da-edd4-44bd-b2db-4ebf226abd3d/u_uid/0/u_vod/1/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/5.63.189.224*asn/u_did/web_0voqy4czLIxD4iwJZ0z0GctEMa9GIH7A/type.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://liveam.tv/assets/images/webp/2017/pryamoi.webp",Прямий
+#EXTVLCOPT:http-user-agent=curl/8.16.0
+https://ext.cdn.nashnet.tv/228.0.0.122/index.m3u8
+#EXTINF:-1 tvg-logo="https://liveam.tv/assets/images/webp/chnl/24-kanal.webp",24 Канал
+https://streamvideol1.luxnet.ua/news24/livenews.m3u8m3u8
+#EXTINF:-1 tvg-logo="https://liveam.tv/assets/images/webp/chnl/we-ukraine.webp",МИ+ УКРАЇНА
+https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
 #EXTINF:-1 tvg-logo="https://s.tvp.pl/images/images/9/0/c/uid_90c4084d8d7e4672a74ce0c4b74cc61d_width_1200_play_0_pos_0_gs_0_height_630.png",TVP INFO
 https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://liveam.tv/assets/images/webp/chnl/24-kanal.webp",24 Канал
-https://streamvideol1.luxnet.ua/news24/livenews.m3u8
-#EXTINF:-1 tvg-logo="https://static.sweet.tv/images/cache/channel_banners/BCHAYIAM/1550-trk-pervyy-zapadnyy-hd.png",Перший Західний
-#EXTVLCOPT:http-user-agent=curl/8.16.0
-https://ext.cdn.nashnet.tv/228.0.0.162/index.m3u8
