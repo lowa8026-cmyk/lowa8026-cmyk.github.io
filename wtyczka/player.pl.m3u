@@ -81,22 +81,30 @@ https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tlc_hd/live.isml/playlist.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|286cfe88bc76ec028f3a5ea879731ef1:e5019021164b21f065671bc8eb6cf83a
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/hgtv/wp_dai.mpd
-#EXTINF:0 tvg-id="Cinemax HD" tvg-logo="https://r-scale-fd.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6330168/images/52502502?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="player.pl;Fabuła" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Cinemax HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a3c5e38fc7a827a19cfdf27d94ba5179:b8bc2956a43ccc82f5d88d4a6172d406
-https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/cinemax1/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
-#EXTINF:0 tvg-id="Cinemax 2 HD" tvg-logo="https://r-scale-ff.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6330169/images/52502615?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="player.pl;Fabuła" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Cinemax 2 HD
+#EXTINF:0 tvg-id="Cartoonito HD" tvg-logo="https://r-scale-db.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6330166/images/52496636?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="player.pl;Dla dzieci" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="1" catchup-correction="0.0",Cartoonito HD
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/boomerang/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+#EXTINF:0 tvg-id="Cinemax 2 HD" tvg-logo="https://r-scale-ff.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6330169/images/52502615?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="player.pl;Fabuła" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="1" catchup-correction="0.0",Cinemax 2 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|c1d87c215b0eeaf2da65c117348998e6:e3738277d46c36d7107e7f8260a96286
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/cinemax2/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
-#EXTINF:0 tvg-id="Grjngo Westerny" tvg-logo="https://raw.githubusercontent.com/lowa8026-cmyk/iptv-1/refs/heads/main/tvnplayer.grjngo.dsth.200.dstw.400.srcmode.0.srcx.0.srcy.0.quality.85.type.0.srcw.1.1.srch.1.1.png" group-title="player.pl;Fabuła" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Grjngo Westerny
+#EXTINF:0 tvg-id="Grjngo Westerny" tvg-logo="https://raw.githubusercontent.com/lowa8026-cmyk/iptv-1/refs/heads/main/tvnplayer.grjngo.dsth.200.dstw.400.srcmode.0.srcx.0.srcy.0.quality.85.type.0.srcw.1.1.srch.1.1.png" group-title="player.pl;Fabuła" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="1" catchup-correction="0.0",Grjngo Westerny
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6958f534821d4c62fea40b492afd6e0b:5999c7367193eacc990d9ba983f5fbde
 https://raw.githubusercontent.com/redcdnpl-ncp/redcdnpl-ncp.github.io/refs/heads/main/livedash/o2/tvnplayer/live/fast_grjngo_rakuten/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
-#EXTINF:0 tvg-id="Warner TV HD" tvg-logo="https://r-scale-6d.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6330170/images/52496628?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="player.pl;Fabuła" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Warner TV HD
+#EXTINF:0 tvg-id="Cinemax HD" tvg-logo="https://r-scale-fd.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6330168/images/52502502?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="player.pl;Fabuła" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="1" catchup-correction="0.0",Cinemax HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a3c5e38fc7a827a19cfdf27d94ba5179:b8bc2956a43ccc82f5d88d4a6172d406
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/cinemax1/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+#EXTINF:0 tvg-id="CNN HD" tvg-logo="https://r-scale-c9.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6330167/images/52502449?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="player.pl;News" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="1" catchup-correction="0.0",CNN HD
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/cnn/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+#EXTINF:0 tvg-id="Cartoon Network HD" tvg-logo="https://r-scale-78.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6330165/images/52496620?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="player.pl;Dla dzieci" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="1" catchup-correction="0.0",Cartoon Network HD
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/cn/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+#EXTINF:0 tvg-id="Warner TV HD" tvg-logo="https://r-scale-6d.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6330170/images/52496628?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="player.pl;Fabuła" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="1" catchup-correction="0.0",Warner TV HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|81e587716f8745c47cd643b01979def1:86d5e57af6ddb6bed63765d85f864587
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/warnertv/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+#EXTINF:0 tvg-id="Romance TV HD" tvg-logo="https://r-scale-b5.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6330171/images/52496644?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="player.pl;Fabuła" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="1" catchup-correction="0.0",Romance TV HD
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/romancetv/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
 #EXTINF:0 tvg-id="Eleven Sports 1 HD" tvg-logo="https://static-stb.cdn-canalplus.pl/supercdn/logos/logotype_266427.png" group-title="player.pl;Sport" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Eleven Sports 1 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0d4c34f8c9bb7fc3534eb21f053a4a74:fe52f8438a6e659dd10041590f10d458
@@ -119,12 +127,12 @@ https://redcdnpl-ncp.github.io/livedash/o2/tvnplayerncp/live/eleven_sports_4_hd/
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/canal_plus_1/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
 #EXTINF:0 tvg-id="CANAL+ PREMIUM HD" tvg-logo="https://static-stb.cdn-canalplus.pl/supercdn/logos/logotype_815964.png" group-title="player.pl;Sport;Fabuła" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",CANAL+ PREMIUM HD
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aef1bd047181ba2d0de9a05f166901ff:2808ab6fcbeb675ff2d8eed620f3a77c
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aef1bd047181ba2d0de9a05f166901ff:2808abfcbeb675ff2d8eed620f3a77c
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/canal_plus/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
 #EXTINF:0 tvg-id="CANAL+ FILM HD" tvg-logo="https://static-stb.cdn-canalplus.pl/supercdn/logos/logotype_250303.png" group-title="player.pl;Fabuła" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",CANAL+ FILM HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|306457f0ba7cb1054d1d65be4cd23bfc:fa535a6ba045e7803d190d7b7e869351
-https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/canal_plus_film/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+https://r.dcs.redcdn.pl/livedash/o2/tnplayerncp/live/canal_plus_film/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
 #EXTINF:0 tvg-id="CANAL+ SERIALE HD" tvg-logo="https://static-stb.cdn-canalplus.pl/supercdn/logos/logotype_250308.png" group-title="player.pl;Fabuła" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",CANAL+ SERIALE HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6eaebbbc8c5a4e173547c137ade3bf67:630e3af039d41b90a06ab90ac3a8a37a
