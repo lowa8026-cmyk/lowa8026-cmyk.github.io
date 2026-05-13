@@ -1,4 +1,4 @@
-﻿#EXTM3U url-tvg="https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/epg/channels/channels.xml"
+﻿#EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1 tvg-logo="https://liveam.tv/assets/images/webp/chnl/1plus1.webp",1+1 International
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
