@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-logo="https://lowa8026-cmyk.github.io/iptv/ElevenSports1.png" group-title="Futbol⚽",Eleven Sports 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=525a9da2120045a6973709dbcd685609:d8a7578d81ce754755a503ad8ac98ec0
+https://cdn-s-lb2.pluscdn.pl/ch/1457744/147/dash/4867711b/live.mpd
+#EXTINF:-1 tvg-id="ElevenSports14K.pl" tvg-logo="https://lowa8026-cmyk.github.io/iptv/ElevenSports14K.png" group-title="Futbol⚽",Eleven Sports 1 4K
+http://91.146.94.234:10001/play/a05c
+#EXTINF:-1 tvg-id="ElevenSports2.pl" tvg-logo="https://lowa8026-cmyk.github.io/iptv/ElevenSports2.png" group-title="Futbol⚽",Eleven Sports 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2cd12eaca5c14b30a3280b1a89484809:e2c14f6cc245c1a5ebbce8c8c704fc6c
+https://cdn-s-lb2.pluscdn.pl/ch/1457734/144/dash/0be7047a/live.mpd
+#EXTINF:-1 tvg-id="ElevenSports3.pl" tvg-logo="https://lowa8026-cmyk.github.io/iptv/ElevenSports3.png" group-title="Futbol⚽",Eleven Sports 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=674c1f34ddac8bb39392a9a041651a33:2b57fa6846ead23442e9a421835fbfb8
+https://redcdnpl-ncp.github.io/livedash/o2/tvnplayerncp/live/11_extra/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
