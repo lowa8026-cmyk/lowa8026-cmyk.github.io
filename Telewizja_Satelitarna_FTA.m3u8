@@ -84,20 +84,18 @@ http://78.130.250.2:8023/play/a03w/index.m3u8
 #EXTINF:0 group-title="Hot Bird 13°E" radio="true",Polskie Radio Jedynka
 https://stream11.polskieradio.pl/pr1/pr1.sdp/playlist.m3u8
 #EXTINF:0 group-title="Hot Bird 13°E" radio="true",Polskie Radio Dwójka
-https://stream11.polskieradio.pl/pr2/pr2.sdp/playlist.m3u8
+https://stream12.polskieradio.pl/pr2/pr2.sdp/playlist.m3u8
 #EXTINF:0 group-title="Hot Bird 13°E" radio="true",Polskie Radio Trójka
-https://stream11.polskieradio.pl/pr3/pr3.sdp/playlist.m3u8
+https://stream13.polskieradio.pl/pr3/pr3.sdp/playlist.m3u8
 #EXTINF:0 group-title="Hot Bird 13°E" radio="true",VOX FM
 http://ic1.smcdn.pl:8000/3040-2.aac
 #EXTINF:0 group-title="Hot Bird 13°E" radio="true",RMF FM
-http://www.rmfon.pl/n/rmffm.pls
+http://195.150.20.3/rmf_fm
 #EXTINF:0 group-title="Hot Bird 13°E" radio="true",RMF 24
 http://195.150.20.7/rmf_24
 #EXTINF:0 group-title="Hot Bird 13°E" radio="true",Radio Jasna Góra
 http://online.radiojasnagora.pl:8004/stream
 #EXTINF:0 group-title="Hot Bird 13°E" radio="true",Radio Kujawy
-http://radio.kujawy.info:9940/listen.pls
-#EXTINF:0 group-title="Hot Bird 13°E" radio="true",TOK FM
-http://www.radio.pionier.net.pl/stream.pls?radio=radiotok
+http://radio.kujawy.info:9940/1
 #EXTINF:0 group-title="Hot Bird 13°E" radio="true",101 Smooth Jazz
 https://go-audio.toya.net.pl/258
