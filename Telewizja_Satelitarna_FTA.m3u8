@@ -39,6 +39,12 @@ http://78.130.250.2:8023/play/a03r/index.m3u8
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=78.130.250.2
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8023
 http://78.130.250.2:8023/play/a03q/index.m3u8
+#EXTINF:0 group-title="Hot Bird 13°E",TV TORUŃ
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.http_proxy_host=217.173.176.107
+#KODIPROP:inputstream.ffmpegdirect.http_proxy_port=1935
+http://217.173.176.107:1935/live/ngrp:tvk.stream_mobile/chunks.m3u8
 #EXTINF:0 group-title="Hot Bird 13°E",Szlagier TV
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
@@ -57,6 +63,12 @@ http://78.130.250.2:8023/play/a03s/index.m3u8
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=78.130.250.2
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8023
 http://78.130.250.2:8023/play/a039/index.m3u8
+#EXTINF:0 group-title="Hot Bird 13°E",TVE
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.http_proxy_host=45.170.130.224
+#KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8000
+http://45.170.130.224:8000/play/a016/index.m3u8
 #EXTINF:0 group-title="Hot Bird 13°E",Tele 5
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
@@ -91,7 +103,7 @@ https://stream13.polskieradio.pl/pr3/pr3.sdp/playlist.m3u8
 http://ic1.smcdn.pl:8000/3040-2.aac
 #EXTINF:0 group-title="Hot Bird 13°E" radio="true",RMF FM
 http://195.150.20.3/rmf_fm
-#EXTINF:0 group-title="Hot Bird 13°E" radio="true",RMF 24
+#EXTINF:0 group-title="Hot Bird 13°E" radio="true",RMF24
 http://195.150.20.7/rmf_24
 #EXTINF:0 group-title="Hot Bird 13°E" radio="true",Radio Jasna Góra
 http://online.radiojasnagora.pl:8004/stream
