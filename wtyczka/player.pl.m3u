@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-id="TVNN HD" tvg-logo="https://r-scale-4a.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/1908473/images/55267668?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="player.pl;Polecane" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TVN HD
+#EXTINF:0 tvg-id="TVN HD" tvg-logo="https://r-scale-4a.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/1908473/images/55267668?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="player.pl;Polecane" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TVN HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|88a5e370996b3de3a3361995382d4467:dc29d760cbaf2e17aa8cebd9d39fc5e5
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
