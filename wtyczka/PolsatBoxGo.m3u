@@ -12,7 +12,9 @@ https://cdn-s-lb2.pluscdn.pl/ch/1565219/2356/dash/312c7bf8/live.mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|1d7846e008204a74b33170dfdc6ca809:3206d85a3b10b49dbfbf3da758b74606
 https://cdn-s-lb2.pluscdn.pl/ch/1565225/2357/dash/1c8a6b65/live.mpd
 #EXTINF:-1 tvg-id="Polsat News HD" tvg-logo="" group-title="News",Polsat News HD
-https://cdn-s-lb2.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|b8344e8185b04180a7c31b2339acc309:abcc31b839071218dfc3341c3407e576
+https://cdn-s-lb2.pluscdn.pl/ch/1456330/123/dash/294f032c/live.mpd
 #EXTINF:-1 tvg-id="TVN7 HD" tvg-logo="" group-title="Ogólny",TVN7 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|7c34304083fabe177078a4f8acdd19e8:0be71f99b079bf58a69356b53fcc5be8
@@ -55,19 +57,21 @@ https://cdn-s-lb2.pluscdn.pl/ch/1455413/74/dash/661fac73/live.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|39b61633fdd04e43a3485d3c5ddd1109:6914f88aa49c2edeacc2c876a7fc108f
 https://cdn-s-lb2.pluscdn.pl/ch/1455746/97/dash/0dd0a424/live.mpd
-#EXTINF:-1 tvg-id="Polsat News 2 HD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/2i/2iv48f5qtnbsq183y4wouyp6ou732tzn.png" group-title="News",Polsat News 2 HD
+#EXTINF:-1 tvg-id="Polsat News 2 HD" tvg-logo="" group-title="News",Polsat News 2 HD
 https://cdn-s-lb2.pluscdn.pl/lv/1533809/392/dash/3de17d4a/live.mpd
-#EXTINF:-1 tvg-id="TVN 24 HD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/8d/8dgs6smn635bfaa3fmjvnorcb4ysspeg.png" group-title="News",TVN 24 HD
+#EXTINF:-1 tvg-id="TVN 24 HD" tvg-logo="" group-title="News",TVN 24 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|eccf2ddaba3e4a77a94fe5c4e9549709:d7ce663699ff97783e4fd86be70e1b74
 https://cdn-s-lb2.pluscdn.pl/ch/1456331/124/dash/95a22d15/live.mpd
 #EXTINF:-1 tvg-id="Polsat News HD" tvg-logo="" group-title="News",Polsat News HD
-https://cdn-s-lb2.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd?id=1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|b8344e8185b04180a7c31b2339acc309:abcc31b839071218dfc3341c3407e576
+https://cdn-s-lb2.pluscdn.pl/ch/1456330/123/dash/294f032c/live.mpd?id=1
 #EXTINF:-1 tvg-id="Polsat News Polityka HD" tvg-logo="" group-title="News",Polsat News Polityka HD
 https://cdn-s-lb2.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd
 #EXTINF:-1 tvg-id="TV4 HD" tvg-logo="" group-title="Ogólny",TV4 HD
 https://cdn-s-lb2.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd?id=1
-#EXTINF:-1 tvg-id="Polsat 2 HD" tvg-logo="" group-title="Ogólny",POLSAT 2 HD
+#EXTINF:-1 tvg-id="Polsat 2 HD" tvg-logo="" group-title="Ogólny",Polsat 2 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|7129e7bfa9934d21a7f6e8219a7b8809:a163c140a296db8a99b8e6873bf80e8c
 https://cdn-s-lb2.pluscdn.pl/ch/1455827/112/dash/cd8582f7/live.mpd
