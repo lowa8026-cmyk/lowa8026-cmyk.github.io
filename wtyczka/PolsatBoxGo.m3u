@@ -1,80 +1,88 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Polsat HD" tvg-logo="" group-title="Ogólny",Polsat HD
+#EXTINF:-1 tvg-id="Kanał Zero TV" tvg-logo="" group-title="",Kanał Zero TV
+https://cdn-s-lb2.pluscdn.pl/ch/1500000/000/dash/00a00c00/live.mpd
+#EXTINF:-1 tvg-id="Polsat HD" tvg-logo="" group-title="",Polsat HD
 https://cdn-s-lb2.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
-#EXTINF:-1 tvg-id="TV4 HD" tvg-logo="" group-title="Ogólny",TV4 HD
+#EXTINF:-1 tvg-id="TV4 HD" tvg-logo="" group-title="",TV4 HD
 https://cdn-s-lb2.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd
-#EXTINF:-1 tvg-id="TVP1 HD" tvg-logo="" group-title="Ogólny",TVP1 HD
+#EXTINF:-1 tvg-id="TVP1 HD" tvg-logo="" group-title="",TVP1 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|2b0c851479874bd48e26b96d45ac9909:908d2e37b3d81ec33f39180a5d5f7423
 https://cdn-s-lb2.pluscdn.pl/ch/1565219/2356/dash/312c7bf8/live.mpd
-#EXTINF:-1 tvg-id="TVP2 HD" tvg-logo="" group-title="Ogólny",TVP2 HD
+#EXTINF:-1 tvg-id="TVP2 HD" tvg-logo="" group-title="",TVP2 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|1d7846e008204a74b33170dfdc6ca809:3206d85a3b10b49dbfbf3da758b74606
 https://cdn-s-lb2.pluscdn.pl/ch/1565225/2357/dash/1c8a6b65/live.mpd
-#EXTINF:-1 tvg-id="Polsat News HD" tvg-logo="" group-title="News",Polsat News HD
+#EXTINF:-1 tvg-id="Polsat News HD" tvg-logo="" group-title="",Polsat News HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|b8344e8185b04180a7c31b2339acc309:abcc31b839071218dfc3341c3407e576
 https://cdn-s-lb2.pluscdn.pl/ch/1456330/123/dash/294f032c/live.mpd
-#EXTINF:-1 tvg-id="TVN7 HD" tvg-logo="" group-title="Ogólny",TVN7 HD
+#EXTINF:-1 tvg-id="TVN7 HD" tvg-logo="" group-title="",TVN7 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|7c34304083fabe177078a4f8acdd19e8:0be71f99b079bf58a69356b53fcc5be8
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn_7/live.isml/playlist.mpd?indexMode=&dummyfile
-#EXTINF:-1 tvg-id="TVN HD" tvg-logo="" group-title="Ogólny",TVN HD
+#EXTINF:-1 tvg-id="TVN HD" tvg-logo="" group-title="",TVN HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|88a5e370996b3de3a3361995382d4467:dc29d760cbaf2e17aa8cebd9d39fc5e5
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn/live.isml/playlist.mpd?indexMode=&dummyfile
-#EXTINF:-1 tvg-id="Polsat Play HD" tvg-logo="" group-title="Lifestyle",Polsat Play HD
+#EXTINF:-1 tvg-id="Polsat Play HD" tvg-logo="" group-title="",Polsat Play HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|01691f765ca84c3a801facebbb946b09:13340211cd86c74e7f52ff3bf10517f4
 https://cdn-s-lb2.pluscdn.pl/ch/1455766/104/dash/5582600b/live.mpd
-#EXTINF:-1 tvg-id="Polsat Cafe HD" tvg-logo="" group-title="Lifestyle",Polsat Cafe HD
+#EXTINF:-1 tvg-id="Polsat Cafe HD" tvg-logo="" group-title="",Polsat Cafe HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|1e6f08a20a264fda94578a7e3b635b09:a40238be5a3225d5d21e23d7768f67dd
 https://cdn-s-lb2.pluscdn.pl/ch/1455748/98/dash/6070cf90/live.mpd
-#EXTINF:-1 tvg-id="Polsat Sport 1 HD" tvg-logo="" group-title="Sport",Polsat Sport 1 HD
+#EXTINF:-1 tvg-id="Polsat Sport 1 HD" tvg-logo="" group-title="",Polsat Sport 1 HD
 https://cdn-s-lb2.pluscdn.pl/lv/1544303/939/dash/7f74b079/live.mpd
-#EXTINF:-1 tvg-id="Polsat Sport 2 HD" tvg-logo="" group-title="Sport",Polsat Sport 2 HD
+#EXTINF:-1 tvg-id="Polsat Sport 2 HD" tvg-logo="" group-title="",Polsat Sport 2 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3201accccbe9455cbc28dcd4bcdf1509:f4d9a50f98ea833d2e5120d83bd59a23
 https://cdn-s-lb2.pluscdn.pl/ch/1455745/96/dash/3880d03f/live.mpd
-#EXTINF:-1 tvg-id="Polsat Sport 3 HD" tvg-logo="" group-title="Sport",Polsat Sport 3 HD
+#EXTINF:-1 tvg-id="Polsat Sport 3 HD" tvg-logo="" group-title="",Polsat Sport 3 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|50df829b092f462ab7ccb30199969f09:a9d1069c93b5a60e07c7f7a3985f2d73
 https://cdn-s-lb2.pluscdn.pl/ch/1455832/117/dash/790ff37c/live.mpd
-#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="" group-title="Sport",Eurosport 1 HD
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="" group-title="",Eurosport 1 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e87994b160bd48b5ac2f608ef5dc0f09:26840f913d91ed7e355a8cc18b99adef
 https://cdn-s-lb2.pluscdn.pl/ch/1456336/126/dash/d6c12d19/live.mpd
-#EXTINF:-1 tvg-id="Eurosport 2 HD" tvg-logo="" group-title="Sport",Eurosport 2 HD
+#EXTINF:-1 tvg-id="Eurosport 2 HD" tvg-logo="" group-title="",Eurosport 2 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|51ab61e7bc85492a9ff91bb55f101709:59acf98d228bddef6443da0b5b0669a2
 https://cdn-s-lb2.pluscdn.pl/ch/1455824/109/dash/8792e496/live.mpd
-#EXTINF:-1 tvg-id="Polsat Games HD" tvg-logo="" group-title="Sport",Polsat Games HD
+#EXTINF:-1 tvg-id="Polsat Games HD" tvg-logo="" group-title="",Polsat Games HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|fd516b4363584bafb51d63334e147109:54884f2730cdea26565db9369bcc0b27
 https://cdn-s-lb2.pluscdn.pl/ch/1455413/74/dash/661fac73/live.mpd
-#EXTINF:-1 tvg-id="Polsat Sport Fight HD" tvg-logo="" group-title="Sport",Polsat Sport Fight HD
+#EXTINF:-1 tvg-id="Polsat Sport Fight HD" tvg-logo="" group-title="",Polsat Sport Fight HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|39b61633fdd04e43a3485d3c5ddd1109:6914f88aa49c2edeacc2c876a7fc108f
 https://cdn-s-lb2.pluscdn.pl/ch/1455746/97/dash/0dd0a424/live.mpd
-#EXTINF:-1 tvg-id="Polsat News 2 HD" tvg-logo="" group-title="News",Polsat News 2 HD
+#EXTINF:-1 tvg-id="Polsat News 2 HD" tvg-logo="" group-title="",Polsat News 2 HD
 https://cdn-s-lb2.pluscdn.pl/lv/1533809/392/dash/3de17d4a/live.mpd
-#EXTINF:-1 tvg-id="TVN 24 HD" tvg-logo="" group-title="News",TVN 24 HD
+#EXTINF:-1 tvg-id="TVN 24 HD" tvg-logo="" group-title="",TVN 24 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|eccf2ddaba3e4a77a94fe5c4e9549709:d7ce663699ff97783e4fd86be70e1b74
 https://cdn-s-lb2.pluscdn.pl/ch/1456331/124/dash/95a22d15/live.mpd
-#EXTINF:-1 tvg-id="Polsat News HD" tvg-logo="" group-title="News",Polsat News HD
+#EXTINF:-1 tvg-id="Polsat News HD" tvg-logo="" group-title="",Polsat News HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|b8344e8185b04180a7c31b2339acc309:abcc31b839071218dfc3341c3407e576
 https://cdn-s-lb2.pluscdn.pl/ch/1456330/123/dash/294f032c/live.mpd?id=1
-#EXTINF:-1 tvg-id="Polsat News Polityka HD" tvg-logo="" group-title="News",Polsat News Polityka HD
+#EXTINF:-1 tvg-id="Kanał Zero TV" tvg-logo="" group-title="",Kanał Zero TV
+https://cdn-s-lb2.pluscdn.pl/ch/1500000/000/dash/00a00c00/live.mpd?id=1
+#EXTINF:-1 tvg-id="Polsat News Polityka HD" tvg-logo="" group-title="",Polsat News Polityka HD
 https://cdn-s-lb2.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd
-#EXTINF:-1 tvg-id="TV4 HD" tvg-logo="" group-title="Ogólny",TV4 HD
+#EXTINF:-1 tvg-id="TV4 HD" tvg-logo="" group-title="",TV4 HD
 https://cdn-s-lb2.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd?id=1
-#EXTINF:-1 tvg-id="Polsat 2 HD" tvg-logo="" group-title="Ogólny",Polsat 2 HD
+#EXTINF:-1 tvg-id="Polsat 2 HD" tvg-logo="" group-title="",Polsat 2 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|7129e7bfa9934d21a7f6e8219a7b8809:a163c140a296db8a99b8e6873bf80e8c
 https://cdn-s-lb2.pluscdn.pl/ch/1455827/112/dash/cd8582f7/live.mpd
+#EXTINF:-1 tvg-id="Paramount Network HD" tvg-logo="" group-title="",Paramount Network HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|14ffb3ab2f00496885d0aad59cf4b709:48cd737fb3a5f6d6f48c98bf27f36a75
+https://cdn-s-lb2.pluscdn.pl/ch/1455826/111/dash/0c23dfc7/live.mpd
 #EXTINF:-1 tvg-id="Polsat Sport Premium 1" tvg-logo="https://ipla.pluscdn.pl/img/p/kxeBSwNLSqrp/1366x768/p/cms_thumbnails/sj/sjvf2kmh7xschbu9qnzhxbrsb1nzewwz.png" group-title="Sport",Polsat Sport Premium 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|76219dada1bc47a8a76e67a8c442e109:b558b02fbad373c38233d9ba517384cc
