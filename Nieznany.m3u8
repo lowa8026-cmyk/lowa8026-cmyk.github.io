@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:6
+## Generated with vxPackager www.streamvx.com
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:1588599
+#EXT-X-MAP:URI="init (1).mp4"
+#EXTINF:2.000,
+1498923.m4s
+#EXTINF:2.000,
+1498924.m4s
