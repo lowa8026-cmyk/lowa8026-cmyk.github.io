@@ -1,1 +1,4 @@
 #EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=828000,RESOLUTION=576x324,NAME="576p"
+https://cors-proxy.cooks.fyi/http://gargoyle.tomkow.pl/hls/tvt.m3u8
