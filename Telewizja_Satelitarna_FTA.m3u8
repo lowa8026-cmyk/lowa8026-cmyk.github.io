@@ -2,9 +2,9 @@
 #EXTINF:0 group-title="Hot Bird 13°E",TVP Info HD
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 http://78.130.250.2:8023/play/a03b/index.m3u8
-#EXTINF:0 group-title="Hot Bird 13°E",TVP World
+#EXTINF:0 group-title="Hot Bird 13°E",TVP 2
 #KODIPROP:inputstream=inputstream.ffmpegdirect
-https://lowa8026-cmyk.github.io/play/a04c/index.m3u8
+https://lowa8026-cmyk.github.io/play/a04a/index.m3u8
 #EXTINF:0 group-title="Hot Bird 13°E",Antena HD
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 http://78.130.250.2:8023/play/a03o/index.m3u8
