@@ -14,3 +14,44 @@ https://streamvideol1.luxnet.ua/news24/livenews.m3u8
 https://ext.cdn.nashnet.tv/228.0.0.138/index.m3u8
 #EXTINF:-1 tvg-logo="https://lanet.tv/static/tv/logo/9060.svg",Еспресо
 https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8
+#EXTINF:-1 tvg-logo="https://lanet.tv/static/tv/logo/9001.svg",Перший
+#EXTVLCOPT:http-user-agent=curl/8.16.0
+https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
+#EXTINF:-1 tvg-logo="https://lanet.tv/static/tv/logo/9066.svg",Суспільне Культура
+#EXTVLCOPT:http-user-agent=curl/8.16.0
+https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8
+#EXTINF:-1 tvg-logo="https://lanet.tv/static/tv/logo/9032.svg",Oboz TV
+#EXTVLCOPT:http-user-agent=curl/8.16.0
+https://ext.cdn.nashnet.tv/228.0.0.148/index.m3u8
+#EXTINF:-1 tvg-logo="https://lanet.tv/static/tv/logo/9218.svg",Караван TV
+#EXTVLCOPT:http-user-agent=curl/8.16.0
+https://ext.cdn.nashnet.tv/228.0.2.30/index.m3u8
+#EXTINF:-1 tvg-logo="https://lanet.tv/static/tv/logo/9212.svg",Фауна
+#EXTINF:-1 tvg-logo="https://lanet.tv/static/tv/logo/9214.svg",Наука
+#EXTINF:-1 tvg-logo="https://lanet.tv/static/tv/logo/9045.svg",Еко TV
+#EXTVLCOPT:http-user-agent=curl/8.16.0
+https://ext.cdn.nashnet.tv/228.0.1.60/index.m3u8
+#EXTINF:-1 tvg-logo="https://lanet.tv/static/tv/logo/9054.svg",History HD
+#EXTINF:-1 tvg-logo="https://lanet.tv/static/tv/logo/9115.svg",Трофей
+#EXTINF:-1 tvg-logo="https://lanet.tv/static/tv/logo/9213.svg",Терра
+#EXTINF:-1 tvg-logo="https://lanet.tv/static/tv/logo/9057.svg",ATR
+https://atr-live.cdn-01.cosmonova.net.ua/hls/atr_ua_hi/index.m3u8
+#EXTINF:-1 tvg-logo="https://lanet.tv/static/tv/logo/9099.svg",Перший Західний
+#EXTVLCOPT:http-user-agent=curl/8.16.0
+https://ext.cdn.nashnet.tv/228.0.0.162/index.m3u8
+#EXTINF:-1 tvg-logo="https://lanet.tv/static/tv/logo/1022.svg",Рівне 1
+https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lanet.tv/static/tv/logo/1029.svg",D1
+https://cdn15.live-tv.cloud/ua_infinitas_tv/d1dn_abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lanet.tv/static/tv/logo/1023.svg",Дніпро TV
+http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lowa8026-cmyk.github.io/static/tv/logo/9262.png",TV Torun
+http://217.173.176.107:1935/live/ngrp:tvk.stream_mobile/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://lanet.tv/static/tv/logo/9076.svg",Надія
+https://jstre.am/live/jsl:uKe2xEgS5IL.m3u8
+#EXTINF:-1 tvg-logo="https://lanet.tv/static/tv/logo/9174.svg",PAI
+https://stream.rai.ua/rai/stream.m3u8
+#EXTINF:-1 tvg-logo="https://lanet.tv/static/tv/logo/9003.svg",Київ
+https://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
+#EXTINF:-1 tvg-logo="https://lanet.tv/static/tv/logo/9226.svg",Аверс
+https://avers.pp.ua/hls/efir.m3u8
