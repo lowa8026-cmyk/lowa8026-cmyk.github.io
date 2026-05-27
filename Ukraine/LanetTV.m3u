@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://lanet.tv/static/tv/logo/9011.svg",Прямий HD
+#EXTVLCOPT:http-user-agent=curl/8.16.0
+https://ext.cdn.nashnet.tv/228.0.0.122/index.m3u8
+#EXTINF:-1 tvg-logo="https://lanet.tv/static/tv/logo/9014.svg",5 канал
+https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8
+#EXTINF:-1 tvg-logo="https://lanet.tv/static/tv/logo/9018.svg",Рада
+#EXTVLCOPT:http-user-agent=curl/8.16.0
+https://ext.cdn.nashnet.tv/228.0.0.24/index.m3u8
+#EXTINF:-1 tvg-logo="https://lanet.tv/static/tv/logo/9035.svg",24 Канал
+https://streamvideol1.luxnet.ua/news24/livenews.m3u8
+#EXTINF:-1 tvg-logo="https://lanet.tv/static/tv/logo/9055.svg",8 Канал
+#EXTVLCOPT:http-user-agent=curl/8.16.0
+https://ext.cdn.nashnet.tv/228.0.0.138/index.m3u8
+#EXTINF:-1 tvg-logo="https://lanet.tv/static/tv/logo/9060.svg",Еспресо
+https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8
