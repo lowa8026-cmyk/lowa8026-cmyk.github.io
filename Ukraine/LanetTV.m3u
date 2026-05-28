@@ -20,6 +20,22 @@ https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
 #EXTINF:-1 tvg-logo="https://lanet.tv/static/tv/logo/9066.svg",Суспільне Культура
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8
+#EXTINF:-1 tvg-logo="https://lanet.tv/static/tv/logo/9163.svg",Суспільне Крим
+#EXTVLCOPT:http-user-agent=curl/8.16.0
+https://ext.cdn.nashnet.tv/228.0.0.71/index.m3u8
+#EXTINF:-1 tvg-logo="https://lanet.tv/static/tv/logo/9033.svg",Суспільне Київ
+#EXTVLCOPT:http-user-agent=curl/8.16.0
+https://ext.cdn.nashnet.tv/228.0.0.41/index.m3u8
+#EXTINF:-1 tvg-logo="https://lanet.tv/static/tv/logo/9231.svg",Суспільне Миколаїв
+https://open-cdn.lanet.tv/live/9231.m3u8
+#EXTINF:-1 tvg-logo="https://lanet.tv/static/tv/logo/9193.svg",Суспільне Одеса
+https://open-cdn.lanet.tv/live/9193.m3u8
+#EXTINF:-1 tvg-logo="https://lanet.tv/static/tv/logo/9232.svg",Суспільне Полтава
+https://open-cdn.lanet.tv/live/9232.m3u8
+#EXTINF:-1 tvg-logo="https://lanet.tv/static/tv/logo/9233.svg",Суспільне Суми
+https://open-cdn.lanet.tv/live/9233.m3u8
+#EXTINF:-1 tvg-logo="https://lanet.tv/static/tv/logo/9228.svg",Суспільне Ужгород
+https://open-cdn.lanet.tv/live/9228.m3u8
 #EXTINF:-1 tvg-logo="https://lanet.tv/static/tv/logo/9032.svg",Oboz TV
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.0.148/index.m3u8
@@ -27,13 +43,18 @@ https://ext.cdn.nashnet.tv/228.0.0.148/index.m3u8
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.2.30/index.m3u8
 #EXTINF:-1 tvg-logo="https://lanet.tv/static/tv/logo/9212.svg",Фауна
+https://open-cdn.lanet.tv/live/9212.m3u8
 #EXTINF:-1 tvg-logo="https://lanet.tv/static/tv/logo/9214.svg",Наука
+https://open-cdn.lanet.tv/live/9214.m3u8
 #EXTINF:-1 tvg-logo="https://lanet.tv/static/tv/logo/9045.svg",Еко TV
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.1.60/index.m3u8
 #EXTINF:-1 tvg-logo="https://lanet.tv/static/tv/logo/9054.svg",History HD
+https://open-cdn.lanet.tv/live/9054.m3u8
 #EXTINF:-1 tvg-logo="https://lanet.tv/static/tv/logo/9115.svg",Трофей
+https://open-cdn.lanet.tv/live/9115.m3u8
 #EXTINF:-1 tvg-logo="https://lanet.tv/static/tv/logo/9213.svg",Терра
+https://open-cdn.lanet.tv/live/9213.m3u8
 #EXTINF:-1 tvg-logo="https://lanet.tv/static/tv/logo/9057.svg",ATR
 https://atr-live.cdn-01.cosmonova.net.ua/hls/atr_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://lanet.tv/static/tv/logo/9099.svg",Перший Західний
