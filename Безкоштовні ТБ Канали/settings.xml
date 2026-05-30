@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="RÃ³Å¼nica czasowa - catchup (Simple Client) [w godz.]">
+		<setting id="cuOffset" type="slider" label="Безкоштовні ТБ Канали" range="-10,1,10" default="-1" option='int'/>
+	</category>
+	<category label="Kreator listy m3u">
+        <setting label="Lista m3u (Nazwa Pliku oraz Katalog Docelowy)" type="lsep"/>
+        <setting label="Nazwa" type="text" id="fname" default="iptv.m3u"/>
+        <setting label="Katalog" type="folder" id="path_m3u" source="auto" option="writeable"/>
+        <setting type="action" action="RunPlugin(plugin://plugin.video.trwam?mode=listM3U)" label="UtwÃ³rz listÄ™ m3u" option="close"/>
+	</category>
+</settings>
