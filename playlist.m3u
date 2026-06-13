@@ -1,3 +1,9 @@
 #EXTM3U
-#EXTIMF:0, Antyradio
+#EXTIMF:0, Wideo z redcdn pl (Oryginalny)
+https://n-16-9.dcs.redcdn.pl/dash/o2/pap/vod/K/S/x86arX/SMOOTH_HD/Manifest.ism
+#EXTIMF:0, Wideo z redcdn pl (bez Clearkey)
+https://lowa8026-cmyk.github.io/redcdn/video.mpd
+#EXTIMF:0, Wideo z redcdn pl (dla Clearkey)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|306457f0ba7cb1054d1d65be4cd23bfc:fa535a6ba045e7803d190d7b7e869351
 https://lowa8026-cmyk.github.io/redcdn/video.mpd
