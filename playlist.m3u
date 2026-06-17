@@ -7,3 +7,5 @@ https://lowa8026-cmyk.github.io/redcdn/video.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|306457f0ba7cb1054d1d65be4cd23bfc:fa535a6ba045e7803d190d7b7e869351
 https://lowa8026-cmyk.github.io/redcdn/video.mpd
+#EXTINF:0, 1+1 Ukraina
+https://lowa8026-cmyk.github.io/streamid/72jc820cb81ec920/index.m3u8
