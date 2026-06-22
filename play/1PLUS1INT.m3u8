@@ -1,3 +1,4 @@
 #EXTM3U
+#EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000,RESOLUTION=1920x1080
 https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
