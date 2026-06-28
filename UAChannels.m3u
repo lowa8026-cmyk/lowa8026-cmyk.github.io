@@ -9,12 +9,30 @@ http://api.tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
 http://93.113.203.152/iptv/XVU58NBPX2LUMP/31612/index.m3u8
 #EXTINF:0, УНІАН СЕРІАЛ HD
 http://176.122.99.7:7000/id22/index.m3u8?21yo=&secret=f8z1l7gk
+#EXTINF:0, НТН
+http://195.189.196.44:8081/ua_infinitas_tv/ntn-abr/playlist.m3u8
+#EXTINF:0, ICTV
+http://15.204.53.12:80/ictv/index.m3u8
+#EXTINF:0, ОЦЕ
+http://93.113.203.152/iptv/XVU58NBPX2LUMP/6380/index.m3u8
+#EXTINF:0, M1
+http://158.101.222.193:88/georgia_play.php?id=m1
 #EXTINF:0, ТЕТ HD
 http://93.113.203.152/iptv/XVU58NBPX2LUMP/6377/index.m3u8
 #EXTINF:0, 24 Канал HD
 http://94.131.248.100/news24/livenews.m3u8
+#EXTINF:0, ПравдаТУТ Львів
+http://176.122.99.7:7000/ch192/tracks-v1a1/mono.m3u8?21yo=1&e=1782901327&id=742347&ip=104.28.156.59&live=1&secret=vu2y5m72&st=bflIqYjnSIr75ACfgV-mug
 #EXTINF:0, Балта TV HD
 http://194.50.51.34/playlist.m3u8
+#EXTINF:0, 5 канал
+http://api.tv.ipnet.ua/api/v1/manifest/2118742539.m3u8
+#EXTINF:0, ТЕСТ
+http://158.101.222.193:88/georgia_play.php?id=m2
+#EXTINF:0, 112 Україна
+http://158.101.222.193:88/georgia_play.php?id=ictv
+#EXTIMF:0, Армія TV
+http://195.54.52.40:80/test/index.m3u8
 #EXTINF:0, 100% News (Одеса)
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:0, Глас (Одеса)
