@@ -27,16 +27,16 @@ http://176.122.99.7:7000/ch192/tracks-v1a1/mono.m3u8?21yo=1&e=1782901327&id=7423
 http://194.50.51.34/playlist.m3u8
 #EXTINF:0, 5 канал
 http://api.tv.ipnet.ua/api/v1/manifest/2118742539.m3u8
+#EXTINF:0, 100% News (Одеса)
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:0, Глас (Одеса)
+http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
 #EXTINF:0, ТЕСТ
 http://158.101.222.193:88/georgia_play.php?id=m2
 #EXTINF:0, 112 Україна
 http://158.101.222.193:88/georgia_play.php?id=ictv
 #EXTINF:0, Армія TV
 http://195.54.52.40:80/test/index.m3u8
-#EXTINF:0, 100% News (Одеса)
-http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
-#EXTINF:0, Глас (Одеса)
-http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
 #EXTINF:0, Общественное Независимое Телевидение (Одеса)
 http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
 #EXTINF:0, Renome TV (Одеса)
