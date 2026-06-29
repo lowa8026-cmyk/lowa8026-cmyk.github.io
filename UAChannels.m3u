@@ -35,8 +35,20 @@ http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
 http://158.101.222.193:88/georgia_play.php?id=m2
 #EXTINF:0, 112 Україна
 http://158.101.222.193:88/georgia_play.php?id=ictv
+#EXTINF:0, Romania TV
+https://dokagents.site/live/romaniatv/mono.m3u8
+#EXTINF:0, ТРК 555
+http://91.207.106.1:8888/live
 #EXTINF:0, Армія TV
 http://195.54.52.40:80/test/index.m3u8
+#EXTINF:0, Рада HD
+http://api.tv.ipnet.ua/api/v1/manifest/1312714970.m3u8
+#EXTINF:0, Київ
+http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
+#EXTINF:0, Simon (Харків)
+http://217.12.198.26/live-HD/live/playlist.m3u8
+#EXTINF:0, Дом/Дім
+http://88.212.15.19/live/telekanal_dim/playlist.m3u8
 #EXTINF:0, Общественное Независимое Телевидение (Одеса)
 http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
 #EXTINF:0, Renome TV (Одеса)
