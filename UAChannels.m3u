@@ -15,8 +15,12 @@ http://195.189.196.44:8081/ua_infinitas_tv/ntn-abr/playlist.m3u8
 http://15.204.53.12:80/ictv/index.m3u8
 #EXTINF:0, ОЦЕ
 http://93.113.203.152/iptv/XVU58NBPX2LUMP/6380/index.m3u8
+#EXTINF:0, Мега
+http://195.189.196.44:8081/ua_infinitas_tv/mega-abr/playlist.m3u8
 #EXTINF:0, M1
 http://158.101.222.193:88/georgia_play.php?id=m1
+#EXTINF:0, Super+
+http://176.122.99.7:7000/ch382/tracks-v1a1/1.m3u8?cs_track=false&e=1783162263&id=921233&ip=178.136.40.86&live=1&secret=9szoe89y&ses=365ec247746bd22d&st=9GLxg7DNUXR_MCB9X30Qew&uid=9szoe89y
 #EXTINF:0, ТЕТ HD
 http://93.113.203.152/iptv/XVU58NBPX2LUMP/6377/index.m3u8
 #EXTINF:0, 24 Канал HD
@@ -35,16 +39,24 @@ http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
 http://158.101.222.193:88/georgia_play.php?id=m2
 #EXTINF:0, 112 Україна
 http://158.101.222.193:88/georgia_play.php?id=ictv
+#EXTINF:0, Тюсо
+http://95.67.62.154/hls/tuso_ua.m3u8
 #EXTINF:0, Romania TV
 https://dokagents.site/live/romaniatv/mono.m3u8
 #EXTINF:0, ТРК 555
 http://91.207.106.1:8888/live
+#EXTINF:0, TVP Polonia
+http://88.212.15.19/live/test_tvp_polonia/playlist.m3u8
+#EXTINF:0, TVP Info
+http://88.212.15.19/live/test_tvp_info/playlist.m3u8
 #EXTINF:0, Армія TV
 http://195.54.52.40:80/test/index.m3u8
 #EXTINF:0, Рада HD
 http://api.tv.ipnet.ua/api/v1/manifest/1312714970.m3u8
 #EXTINF:0, Київ
 http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
+#EXTINF:0, Телевсесвіт
+http://95.67.77.205/hls/televsesvit_ua_hi/index.m3u8
 #EXTINF:0, Simon (Харків)
 http://217.12.198.26/live-HD/live/playlist.m3u8
 #EXTINF:0, Дом/Дім
