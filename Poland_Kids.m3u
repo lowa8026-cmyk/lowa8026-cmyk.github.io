@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="",MiniMini+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df548b49cde24994a7ecfa75bea82309:bccc0af1f9779b5c1374f0a499783fbb
+https://cdn-s-lb2.pluscdn.pl/ch/1456458/133/dash/8e18c3b4/live.mpd
+#EXTINF:-1 tvg-logo="",Nick Jr.
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab0b2cbc726b48dda9ac15cc5b940e09:e9e303c3be848ef0914027220fcd36e4
+https://cdn-s-lb2.pluscdn.pl/ch/1455758/102/dash/2da91be7/live.mpd
