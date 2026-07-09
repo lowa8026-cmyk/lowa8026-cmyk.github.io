@@ -25,7 +25,7 @@ https://lowa8026-cmyk.github.io/Ukraine/K1.m3u8
 https://cdn15.live-tv.cloud/ua_infinitas_tv/k2-abr/playlist.m3u8
 #EXTINF:0 tvg-logo="https://lowa8026-cmyk.github.io/331685УТБ/logo/OCE.png",ОЦЕ
 http://93.113.203.152/iptv/XVU58NBPX2LUMP/6380/index.m3u8
-#EXTINF:0 tvg-logo="https://lowa8026-cmyk.github.io/331685УТБ/logo/Kvartal95.png",Kvartal TV
+#EXTINF:0 tvg-logo="https://lowa8026-cmyk.github.io/331685УТБ/logo/KvartalTV.png",Kvartal TV
 http://88.212.15.19/live/kvartal_tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://lowa8026-cmyk.github.io/331685УТБ/logo/Mega.png",Мега
 http://195.189.196.44:8081/ua_infinitas_tv/mega-abr/playlist.m3u8
