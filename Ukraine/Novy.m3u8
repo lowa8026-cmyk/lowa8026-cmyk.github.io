@@ -1,8 +1,8 @@
 #EXTM3U
-#EXT-X-PLAYLIST-TYPE:VOD
-#EXT-X-TARGETDURATION:6
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:1
+#EXT-X-ALLOW-CACHE:NO
+#EXT-X-TARGETDURATION:6
 #EXTINF:5.400,
 https://iptv.prosto.tv/stubs/ch_not_allow_city.mp4/segment1.ts
 #EXTINF:5.400,
@@ -27,4 +27,3 @@ https://iptv.prosto.tv/stubs/ch_not_allow_city.mp4/segment10.ts
 https://iptv.prosto.tv/stubs/ch_not_allow_city.mp4/segment11.ts
 #EXTINF:0.640,
 https://iptv.prosto.tv/stubs/ch_not_allow_city.mp4/segment12.ts
-#EXT-X-ENDLIST
