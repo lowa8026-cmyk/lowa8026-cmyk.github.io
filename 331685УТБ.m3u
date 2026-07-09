@@ -9,19 +9,19 @@ http://34cb12c24-ottiptv.github.io/iptv/MM4E93NGF5LADZ/4829226/index.m3u8
 http://15.204.53.12:80/ictv/index.m3u8
 #EXTINF:0 tvg-logo="https://lowa8026-cmyk.github.io/331685УТБ/logo/UAPER.png",Перший HD
 http://api.tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
-#EXTINF:0 tvg-logo="https://lowa8026-cmyk.github.io/331685УТБ/logo/1Plus1Int.png",1+1 International
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/lowa8026-cmyk/lowa8026-cmyk.github.io/refs/heads/main/331685%D0%A3%D0%A2%D0%91/logo/1Plus1Int.png",1+1 International
 http://88.212.15.19/live/test_one_plus_one_int_tizen/playlist.m3u8
 #EXTINF:0 tvg-logo="https://lowa8026-cmyk.github.io/331685УТБ/logo/NTN.png",НТН
 http://195.189.196.44:8081/ua_infinitas_tv/ntn-abr/playlist.m3u8
-#EXTINF:0 tvg-logo="https://lowa8026-cmyk.github.io/331685УТБ/logo/TVPINFO.png",TVP Info
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/lowa8026-cmyk/lowa8026-cmyk.github.io/refs/heads/main/331685%D0%A3%D0%A2%D0%91/logo/TVPINFO.png",TVP Info
 http://88.212.15.19/live/test_tvp_info/playlist.m3u8
-#EXTINF:0 tvg-logo="https://lowa8026-cmyk.github.io/331685УТБ/logo/Novy.png",Новий канал
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/lowa8026-cmyk/lowa8026-cmyk.github.io/refs/heads/main/331685%D0%A3%D0%A2%D0%91/logo/Novy.png",Новий канал
 https://lowa8026-cmyk.github.io/Ukraine/Novy.m3u8
 #EXTINF:0 tvg-logo="https://lowa8026-cmyk.github.io/331685УТБ/logo/ICTV2.png",ICTV2
 http://34cb12c24-ottiptv.github.io/iptv/MM4E93NGF5LADZ/4829223/index.m3u8
-#EXTINF:0 tvg-logo="https://lowa8026-cmyk.github.io/331685УТБ/logo/K1.png",К1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/lowa8026-cmyk/lowa8026-cmyk.github.io/refs/heads/main/331685%D0%A3%D0%A2%D0%91/logo/K1.png",К1
 https://lowa8026-cmyk.github.io/Ukraine/K1.m3u8
-#EXTINF:0 tvg-logo="https://lowa8026-cmyk.github.io/331685УТБ/logo/K2.png",К2
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/lowa8026-cmyk/lowa8026-cmyk.github.io/refs/heads/main/331685%D0%A3%D0%A2%D0%91/logo/K2.png",К2
 https://cdn15.live-tv.cloud/ua_infinitas_tv/k2-abr/playlist.m3u8
 #EXTINF:0 tvg-logo="https://lowa8026-cmyk.github.io/331685УТБ/logo/OCE.png",ОЦЕ
 http://93.113.203.152/iptv/XVU58NBPX2LUMP/6380/index.m3u8
