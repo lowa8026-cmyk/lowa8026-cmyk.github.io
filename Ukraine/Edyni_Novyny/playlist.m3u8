@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:0, 1+1 Marafon
+https://lowa8026-cmyk.github.io/Ukraine/Edyni_Novyny/1Plus1Marafon.m3u8
+#EXTINF:0, 2+2 Marafon
+https://lowa8026-cmyk.github.io/Ukraine/Edyni_Novyny/2Plus2Marafon.m3u8
+#EXTINF:0, RADA
+#EXTVLCOPT:http-user-agent=curl/8.16.0
+https://lowa8026-cmyk.github.io/Ukraine/Edyni_Novyny/RADA.m3u8
+#EXTINF:0, ICTV
+https://lowa8026-cmyk.github.io/Ukraine/Edyni_Novyny/ICTV.m3u8
+#EXTINF:0, WE UKRAINE TV
+https://lowa8026-cmyk.github.io/Ukraine/Edyni_Novyny/WEUKRAINETV.m3u8
